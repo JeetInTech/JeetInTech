@@ -19,9 +19,7 @@
 📊 **Data Scientist** building intelligent automation platforms  
 🚀 **Full-Stack Developer** with MERN/FERN stack expertise  
 🎓 Computer Science (AI/ML) - CGPA 8.0  
-💡 5+ years coding | 50+ projects | 10+ AI models deployed
-
-</div>
+💡 5+ years coding | 50+ projects | 10+ AI models | 506 contributions/year
 
 ###
 
@@ -38,7 +36,7 @@
 
 ###
 
-<h2 align="left">� Tech Stack</h2>
+<h2 align="left">🔥 Tech Stack</h2>
 
 ###
 
@@ -82,70 +80,40 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
 </div>
 
----
+###
 
-## 📊 **NEURAL_STATS.db**
+<h2 align="left">📊 Performance Metrics</h2>
 
 <div align="center">
 
 ```
 ╔══════════════════════════════════════════════════╗
-║  📈 PERFORMANCE METRICS                          ║
+║  📈 STATS & ACHIEVEMENTS                         ║
 ╠══════════════════════════════════════════════════╣
-║  💻 Years Coding:    [▓▓▓▓▓░░░░░] 5+            ║
-║  � Projects Done:   [▓▓▓▓▓▓▓▓▓▓] 50+           ║
-║  🤖 AI Models:       [▓▓▓▓▓░░░░░] 10+           ║
-║  🌍 Languages:       [▓▓▓▓▓░░░░░] 5              ║
-║  🎓 CGPA:            [▓▓▓▓▓▓▓▓░░] 8.0/10        ║
-║  ☕ Coffee Level:    [▓▓▓▓▓▓▓▓▓▓] MAXIMUM        ║
+║  💻 Years Coding:       [▓▓▓▓▓░░░░░] 5+         ║
+║  🚀 Projects Done:      [▓▓▓▓▓▓▓▓▓▓] 50+        ║
+║  🤖 AI Models:          [▓▓▓▓▓░░░░░] 10+        ║
+║  📦 Contributions:      [▓▓▓▓▓▓▓▓░░] 506/year   ║
+║  🎓 CGPA:               [▓▓▓▓▓▓▓▓░░] 8.0/10     ║
+║  ☕ Coffee Level:       [▓▓▓▓▓▓▓▓▓▓] MAXIMUM     ║
 ╚══════════════════════════════════════════════════╝
 ```
 
-<img src="https://github-readme-stats.vercel.app/api?username=JeetInTech&show_icons=true&theme=chartreuse-dark&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=00ff41&border_color=00ff41" alt="GitHub Stats" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=JeetInTech&theme=chartreuse-dark&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&border=00ff41" alt="GitHub Streak" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeetInTech&layout=compact&theme=chartreuse-dark&bg_color=0d1117&title_color=00ff41&text_color=00ff41&border_color=00ff41" alt="Top Languages" />
-
 </div>
 
----
+###
 
-## 🎯 **CURRENT_PROJECTS.json**
+<h2 align="left">🚀 Featured Projects</h2>
 
-```json
-{
-  "featured_missions": [
-    {
-      "project": "� Neurovia AI",
-      "description": "Advanced AI platform for business automation & data analysis",
-      "status": "LIVE",
-      "url": "https://neuroviai.com",
-      "tech": ["React", "AI/ML", "Node.js", "Python"],
-      "impact": "CRITICAL"
-    },
-    {
-      "project": "🎨 Crafting Brain",
-      "description": "Creative digital agency platform with modern design",
-      "status": "DEPLOYED",
-      "url": "https://craftingbrain.com",
-      "tech": ["HTML5", "CSS3", "JavaScript", "Responsive"],
-      "impact": "HIGH"
-    },
-    {
-      "project": "📝 Ezz Notes",
-      "description": "Real-time collaborative note-taking app",
-      "status": "LIVE",
-      "url": "https://ezznotes.netlify.app",
-      "tech": ["React", "Firebase", "Real-time", "PWA"],
-      "impact": "MEDIUM"
-    }
-  ],
-  "total_projects": "50+",
-  "ai_models_deployed": "10+",
-  "freelance_sectors": ["Healthcare", "EdTech", "Business Analytics"]
-}
-```
+<div align="center">
+  
+| 🧠 [Neurovia AI](https://neuroviai.com) | 🎨 [Crafting Brain](https://craftingbrain.com) | 📝 [Ezz Notes](https://ezznotes.netlify.app) |
+|:---:|:---:|:---:|
+| AI Platform for Business Automation | Creative Digital Agency Platform | Real-time Note-Taking App |
+| React • AI/ML • Node.js • Python | HTML5 • CSS3 • JavaScript | React • Firebase • PWA |
+| ⭐ Live & Production Ready | ⭐ Fully Deployed | ⭐ Active Users |
+
+</div>
 
 ###
 
@@ -165,102 +133,89 @@ const expertise = {
 ###
 
 <div align="center">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" height="200" alt="coding gif"/>
+</div>
+
+###
+
+<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=JeetInTech&theme=react-dark&bg_color=0d1117&color=00ff41&line=00ff41&point=00ff41&area=true&hide_border=false" alt="Activity Graph" />
 </div>
 
----
+###
 
-## 🌐 **CONNECT.protocol**
-
-<div align="center">
-
-```
-┌───────────────────────────────────────────┐
-│  ESTABLISHING SECURE CONNECTION...        │
-│  [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] 100%            │
-│  CONNECTION ESTABLISHED ✓                 │
-└───────────────────────────────────────────┘
-```
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=00ff41)](https://github.com/JeetInTech)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=00ff41)](https://www.linkedin.com/in/sangramjeetghosh/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=00ff41)](https://x.com/SangramJee97448)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=00ff41)](https://www.instagram.com/officiallyjeet/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=00ff41)](https://sangramjeet.me)
-[![Resume](https://img.shields.io/badge/Download_CV-4285F4?style=for-the-badge&logo=google-drive&logoColor=00ff41)](https://sangramjeet.me/images/Sangramjeet%20resume.pdf)
-
-</div>
-
----
-
-## 🎮 **ACHIEVEMENT_UNLOCKED**
+<h2 align="left">🏆 Achievements</h2>
 
 <div align="center">
 
 ```
 ╔═══════════════════════════════════════════════╗
-║  🏆 TROPHIES & ACHIEVEMENTS                   ║
-╠═══════════════════════════════════════════════╣
 ║  🎓 AI/ML Specialist            [UNLOCKED]    ║
-║  � 5+ Years Coding             [UNLOCKED]    ║
-║  � 50+ Projects Deployed       [UNLOCKED]    ║
+║  💻 506 Contributions/Year      [UNLOCKED]    ║
+║  🚀 50+ Projects Deployed       [UNLOCKED]    ║
 ║  🤖 10+ AI Models Built         [UNLOCKED]    ║
 ║  🌐 Full-Stack Master           [UNLOCKED]    ║
-║  � Data Science Expert         [UNLOCKED]    ║
-║  🔥 Freelance AI Developer      [UNLOCKED]    ║
-║  💼 Production AI Platforms     [UNLOCKED]    ║
-║  ☕ Coffee-Powered Coder        [UNLOCKED]    ║
-║  🌙 Night Owl Developer         [UNLOCKED]    ║
+║  📊 Data Science Expert         [UNLOCKED]    ║
+║  🔥 Freelance Developer         [UNLOCKED]    ║
+║  💼 Entrepreneur (Neurovia AI)  [UNLOCKED]    ║
 ║  🎯 CGPA 8.0 Scholar            [UNLOCKED]    ║
-║  🌟 Innovation Driver           [IN PROGRESS] ║
 ╚═══════════════════════════════════════════════╝
 ```
 
 </div>
 
----
+###
 
-## 💭 **PHILOSOPHY.txt**
+<h2 align="left">🌐 Connect with Me</h2>
 
-<div align="center">
+###
 
-> *"Transforming complex data into actionable insights."*
-> 
-> *"Building intelligent automation systems with modern technology."*
-> 
-> *"Where AI meets innovation, possibilities become reality."*
-> 
-> *"From data pipelines to deployed AI platforms - end-to-end solutions."*
-
-```
-    ⠀⠀⠀⣠⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣄⡀
-    ⠀⢀⣾⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢻⣦
-    ⠀⣾⠃⠀⠀ STAY CURIOUS ⠀⠀⠀⠀⠀⠀⠀⠀⠹⣧
-    ⢸⡏⠀⠀⠀ STAY CODING ⠀⠀⠀⠀⠀⠀⠀⠀⢹⡇
-    ⢸⡇⠀⠀⠀ STAY CYBER  ⠀⠀⠀⠀⠀⠀⠀⠀⢸⡇
-    ⠸⣇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣸⠇
-    ⠀⠹⣦⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⡾⠃
-    ⠀⠀⠈⠻⢶⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣤⡶⠟⠁
-```
-
+<div align="left">
+  <a href="https://github.com/JeetInTech" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="github logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/sangramjeetghosh/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://x.com/SangramJee97448" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+  </a>
+  <a href="https://www.instagram.com/officiallyjeet/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="https://sangramjeet.me" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=google-chrome&label=&color=FF5722&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio logo"  />
+  </a>
+  <a href="https://neuroviai.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Neurovia+AI&logo=react&label=&color=00D9FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="neurovia logo"  />
+  </a>
+  <a href="https://sangramjeet.me/images/Sangramjeet%20resume.pdf" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Download+CV&logo=google-drive&label=&color=4285F4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="resume logo"  />
+  </a>
 </div>
 
----
-
-## 🔐 **ACCESS_GRANTED**
+###
 
 <div align="center">
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+</div>
 
-```ascii
-    ╔═══════════════════════════════════════╗
-    ║  >> WELCOME TO JEET'S DIGITAL REALM  ║
-    ║  >> STATUS: ALWAYS CODING            ║
-    ║  >> MISSION: INNOVATE & DISRUPT      ║
-    ╚═══════════════════════════════════════╝
-```
+###
 
-![Profile Views](https://komarev.com/ghpvc/?username=JeetInTech&color=00ff41&style=for-the-badge&label=NEURAL+CONNECTIONS)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/JeetInTech/JeetInTech/output/snake.svg" alt="Snake animation" />
+</div>
 
-### `[ SESSION ACTIVE ] - [ UPTIME: ∞ ] - [ THREAT LEVEL: MIDNIGHT ]`
+###
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontColor=fff&animation=twinkling" width="100%"/>
+</div>
 
+###
+
+<div align="center">
+  
+![Profile Views](https://komarev.com/ghpvc/?username=JeetInTech&color=00ff41&style=for-the-badge&label=PROFILE+VIEWS)
+
+</div>
