@@ -82,14 +82,16 @@
 
 ###
 
-<h2 align="left">📊 Performance Metrics</h2>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=📊+Stats+%26+Achievements;💻+5%2B+Years+Coding;🚀+50%2B+Projects;🤖+10%2B+AI+Models;📦+506+Contributions%2FYear" alt="Stats Typing SVG" />
+</div>
+
+###
 
 <div align="center">
 
 ```
 ╔══════════════════════════════════════════════════╗
-║  📈 STATS & ACHIEVEMENTS                         ║
-╠══════════════════════════════════════════════════╣
 ║  💻 Years Coding:       [▓▓▓▓▓░░░░░] 5+         ║
 ║  🚀 Projects Done:      [▓▓▓▓▓▓▓▓▓▓] 50+        ║
 ║  🤖 AI Models:          [▓▓▓▓▓░░░░░] 10+        ║
