@@ -124,7 +124,7 @@ const expertise = {
 ###
 
 <div align="center">
-  <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" height="100" alt="gaming gif"/>
+  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/35749586-ade0-4146-8a8f-407bfa33f90d/dfumil8-c9aade66-31d8-43dc-ad6a-c5a686595ea0.png/v1/fill/w_600,h_338/martis___deathrock___png_mobile_legends_by_dijemaru_dfumil8-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MzM4IiwicGF0aCI6Ii9mLzM1NzQ5NTg2LWFkZTAtNDE0Ni04YThmLTQwN2JmYTMzZjkwZC9kZnVtaWw4LWM5YWFkZTY2LTMxZDgtNDNkYy1hZDZhLWM1YTY4NjU5NWVhMC5wbmciLCJ3aWR0aCI6Ijw9NjAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.T0XdSfWcxXBtFEZsjmU4MX010jdd6D9wuUn_QR1c1h0" height="200" alt="martis deathrock"/>
 </div>
 
 ###
