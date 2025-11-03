@@ -12,7 +12,7 @@
 
 <h2 align="left">👨‍💻 About Me</h2>
 
-<img align="right" height="200" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"  />
+<img align="right" height="250" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/35749586-ade0-4146-8a8f-407bfa33f90d/dfumhwi-63c361f9-3f6d-4ae4-b8a9-7784287f2853.png/v1/fill/w_600,h_338/martis___ashura_king___png_mobile_legends_by_dijemaru_dfumhwi-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MzM4IiwicGF0aCI6Ii9mLzM1NzQ5NTg2LWFkZTAtNDE0Ni04YThmLTQwN2JmYTMzZjkwZC9kZnVtaHdpLTYzYzM2MWY5LTNmNmQtNGFlNC1iOGE5LTc3ODQyODdmMjg1My5wbmciLCJ3aWR0aCI6Ijw9NjAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.O7P6v5qbiJmFShKnnRp1wYN6p6BbFAl_Rw83SZwYR0s"  />
 
 🤖 **AI/ML Engineer** specializing in LLMs, RAG Systems & NLP  
 💼 **Freelancer & Entrepreneur** - Founder of [Neurovia AI](https://neuroviai.com/)  
