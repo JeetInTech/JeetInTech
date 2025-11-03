@@ -118,13 +118,13 @@ const expertise = {
 ###
 
 <div align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" height="200" alt="coding gif"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JeetInTech&theme=react-dark&bg_color=0d1117&color=00ff41&line=00ff41&point=00ff41&area=true&hide_border=false" alt="Activity Graph" />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JeetInTech&theme=react-dark&bg_color=0d1117&color=00ff41&line=00ff41&point=00ff41&area=true&hide_border=false" alt="Activity Graph" />
+  <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" height="100" alt="gaming gif"/>
 </div>
 
 ###
@@ -190,6 +190,8 @@ const expertise = {
 <div align="center">
   <img src="https://raw.githubusercontent.com/JeetInTech/JeetInTech/output/snake.svg" alt="Snake animation" />
 </div>
+
+###
 
 ###
 
