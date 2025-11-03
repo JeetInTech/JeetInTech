@@ -1,120 +1,85 @@
 <div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00FF41&center=true&vCenter=true&width=600&lines=Hey+%F0%9F%91%8B+I'm+Sangramjeet+Ghosh;AI%2FML+Engineer+%F0%9F%A4%96;Full-Stack+Developer+%F0%9F%92%BB;Data+Scientist+%F0%9F%93%8A;Freelancer+%26+Entrepreneur+%F0%9F%9A%80" alt="Typing SVG" />
+</div>
 
-```
-     ██╗███████╗███████╗████████╗
-     ██║██╔════╝██╔════╝╚══██╔══╝
-     ██║█████╗  █████╗     ██║   
-██   ██║██╔══╝  ██╔══╝     ██║   
-╚█████╔╝███████╗███████╗   ██║   
- ╚════╝ ╚══════╝╚══════╝   ╚═╝   
-```
+###
 
-### `[ NEURAL INTERFACE CONNECTED ]`
+<div align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExajBjNjNjcnhsZGRtYmN4dHBrd2d5YnpoaHJrOGZ3bGI4eTg3c3o3NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="300"/>
+</div>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Welcome+to+the+Matrix...;Code+is+the+new+reality;Hack+the+planet+🌐;Building+the+future+⚡" alt="Typing SVG" />
+###
 
----
+<h2 align="left">👨‍💻 About Me</h2>
 
-### ⚡ **SYSTEM STATUS** ⚡
+<img align="right" height="200" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"  />
 
-```ascii
-┌─────────────────────────────────────────┐
-│  💀 IDENTITY: SANGRAMJEET GHOSH        │
-│  🎓 SPECIALIZATION: AI/ML + FULL-STACK │
-│  🔐 ACCESS LEVEL: DATA SCIENTIST        │
-│  🌐 LOCATION: INDIA                     │
-│  ⚡ STATUS: BUILDING_AI_SOLUTIONS       │
-└─────────────────────────────────────────┘
-```
+🤖 **AI/ML Engineer** specializing in LLMs, RAG Systems & NLP  
+💼 **Freelancer & Entrepreneur** - Founder of [Neurovia AI](https://neuroviai.com/)  
+📊 **Data Scientist** building intelligent automation platforms  
+🚀 **Full-Stack Developer** with MERN/FERN stack expertise  
+🎓 Computer Science (AI/ML) - CGPA 8.0  
+💡 5+ years coding | 50+ projects | 10+ AI models deployed
 
 </div>
 
----
-
-## 🕹️ **ABOUT_ME.exe**
-
-```javascript
-const jeet = {
-    fullName: "Sangramjeet Ghosh",
-    alias: "Jeet",
-    role: "Data Scientist | AI/ML Engineer | Full-Stack Developer",
-    location: "India",
-    education: "Computer Science (AI/ML) - CGPA 8.0",
-    specialization: [
-        "AI/ML Engineering & Deep Learning",
-        "LLMs, RAG Systems & NLP",
-        "Full-Stack Development",
-        "Data Analysis & Predictive Modeling"
-    ],
-    stats: {
-        yearsOfCoding: "5+",
-        projectsCompleted: "50+",
-        aiModelsBuilt: "10+",
-        languagesSpoken: 5
-    },
-    motto: "Transforming data into intelligent solutions",
-    currentMission: "Building AI-powered platforms that drive innovation"
-};
-```
+###
 
 <div align="center">
-
-```
-    ▄▄▄▄▄▄▄▄▄▄▄  ▄▄▄▄▄▄▄▄▄▄▄  ▄▄▄▄▄▄▄▄▄▄▄  ▄▄▄▄▄▄▄▄▄▄▄ 
-   ▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌
-   ▐░█▀▀▀▀▀▀▀▀▀ ▐░█▀▀▀▀▀▀▀█░▌▐░█▀▀▀▀▀▀▀█░▌▐░█▀▀▀▀▀▀▀▀▀ 
-   ▐░▌          ▐░▌       ▐░▌▐░▌       ▐░▌▐░▌          
-   ▐░▌          ▐░▌       ▐░▌▐░▌       ▐░▌▐░█▄▄▄▄▄▄▄▄▄ 
-   ▐░▌          ▐░▌       ▐░▌▐░▌       ▐░▌▐░░░░░░░░░░░▌
-   ▐░▌          ▐░▌       ▐░▌▐░▌       ▐░▌▐░█▀▀▀▀▀▀▀▀▀ 
-   ▐░▌          ▐░▌       ▐░▌▐░▌       ▐░▌▐░▌          
-   ▐░█▄▄▄▄▄▄▄▄▄ ▐░█▄▄▄▄▄▄▄█░▌▐░█▄▄▄▄▄▄▄█░▌▐░█▄▄▄▄▄▄▄▄▄ 
-   ▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌
-    ▀▀▀▀▀▀▀▀▀▀▀  ▀▀▀▀▀▀▀▀▀▀▀  ▀▀▀▀▀▀▀▀▀▀▀  ▀▀▀▀▀▀▀▀▀▀▀ 
-```
-
+  <img src="https://github-readme-stats.vercel.app/api?username=JeetInTech&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=chartreuse-dark&locale=en&hide_border=false&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=00ff41" height="180" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JeetInTech&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=chartreuse-dark&hide_border=false&bg_color=0d1117&title_color=00ff41&text_color=00ff41" height="180" alt="languages graph"  />
 </div>
 
----
-
-## 🛠️ **TECH_STACK.sys**
+###
 
 <div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JeetInTech&theme=chartreuse-dark&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&border=00ff41" alt="GitHub Streak" />
+</div>
 
-### ⚡ Languages & Frameworks
+###
 
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=00FF41)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+<h2 align="left">� Tech Stack</h2>
 
-### 💾 AI/ML & Data Science
+###
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge&logoColor=black)
-
-### 🗄️ Databases & Cloud
-
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-
-### 🔧 Tools & IDEs
-
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Vim](https://img.shields.io/badge/VIM-019733?style=for-the-badge&logo=vim&logoColor=white)
-
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="aws logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
 </div>
 
 ---
@@ -182,61 +147,26 @@ const jeet = {
 }
 ```
 
----
+###
 
-## 🔥 **CONTRIBUTION_GRAPH.matrix**
+<h2 align="left">💼 Expertise & Services</h2>
+
+```javascript
+const expertise = {
+    aiML: ["LLMs", "RAG Systems", "NLP", "Deep Learning", "Transformers", "BERT"],
+    dataScience: ["Predictive Modeling", "AutoML", "Data Pipelines", "EDA", "Visualization"],
+    fullStack: ["React", "Node.js", "FastAPI", "MongoDB", "PostgreSQL", "REST APIs"],
+    mlOps: ["Model Deployment", "CI/CD", "Docker", "AWS", "Cloud Infrastructure"],
+    automation: ["LangChain", "Multi-Agent Systems", "Business Process Automation"],
+    freelance: ["Custom AI Solutions", "Healthcare", "EdTech", "Business Analytics"]
+};
+```
+
+###
 
 <div align="center">
-
-```
-         LOADING CONTRIBUTION MATRIX...
-    ⠀⠀⠀⢀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⡀
-    ████▓▓▓▓▒▒▒▒░░░░░░░░░░░░░░░░░░░░
-    ███████▓▓▓▓▒▒▒▒░░░░░░░░░░░░░░░░░
-    ████████▓▓▓▓▒▒▒▒░░░░░░░░░░░░░░░░
-    █████████▓▓▓▓▒▒▒▒░░░░░░░░░░░░░░░
-    ██████████▓▓▓▓▒▒▒▒░░░░░░░░░░░░░░
-```
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JeetInTech&theme=react-dark&bg_color=0d1117&color=00ff41&line=00ff41&point=00ff41&area=true&hide_border=false&custom_title=Neural%20Activity%20Graph)
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JeetInTech&theme=react-dark&bg_color=0d1117&color=00ff41&line=00ff41&point=00ff41&area=true&hide_border=false" alt="Activity Graph" />
 </div>
-
----
-
-## 💀 **TERMINAL_OUTPUT.log**
-
-```bash
-jeet@cyberpunk:~$ whoami
-> Data Scientist | AI/ML Engineer | Full-Stack Developer
-
-jeet@cyberpunk:~$ cat /etc/expertise.conf
-> AI/ML Engineering & Deep Learning ✓
-> LLMs, RAG Systems & NLP ✓
-> Full-Stack Development (MERN/FERN) ✓
-> Data Analysis & Predictive Modeling ✓
-> AutoML & Data Pipelines ✓
-> Business Automation & Analytics ✓
-
-jeet@cyberpunk:~$ python3 stats.py --show
-> Years of Coding: 5+
-> Projects Completed: 50+
-> AI/ML Models Built: 10+
-> Production AI Platforms: Deployed ✓
-> Current CGPA: 8.0/10.0
-
-jeet@cyberpunk:~$ sudo apt-get install innovation
-> Reading package lists... Done
-> Building dependency tree... Done
-> Installing: creativity, automation, intelligence
-> Status: Transforming data into insights...
-> ∞ ideas can be implemented.
-
-jeet@cyberpunk:~$ ./deploy_ai_solution.sh
-> [████████████████████] 100%
-> AI Platform deployed successfully!
-> Intelligence.exe is now running.
-```
 
 ---
 
@@ -333,8 +263,4 @@ jeet@cyberpunk:~$ ./deploy_ai_solution.sh
 
 ### `[ SESSION ACTIVE ] - [ UPTIME: ∞ ] - [ THREAT LEVEL: MIDNIGHT ]`
 
----
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=150&section=footer&text=Keep%20Coding%20•%20Stay%20Cyber%20•%20Build%20Tomorrow&fontSize=20&fontColor=00ff41&animation=twinkling" width="100%"/>
-
-</div>
