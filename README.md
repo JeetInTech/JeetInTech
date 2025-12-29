@@ -14,12 +14,12 @@
 
 <img align="right" height="200" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"  />
 
-🤖 **AI/ML Engineer** specializing in LLMs, RAG Systems & NLP  
+🤖 **AI/ML Engineer** specializing in LLMs, RAG Systems, LangChain & Multi-Agent Systems  
 💼 **Freelancer & Entrepreneur** - Founder of [Neurovia AI](https://neuroviai.com/)  
-📊 **Data Scientist** building intelligent automation platforms  
-🚀 **Full-Stack Developer** with MERN/FERN stack expertise  
+📊 **Data Scientist** building intelligent automation & ML platforms  
+🚀 **Full-Stack Developer** with React, FastAPI, Flask & MERN stack expertise  
 🎓 Computer Science (AI/ML) - CGPA 8.0  
-💡 5+ years coding | 50+ projects | 10+ AI models | 506 contributions/year
+💡 5+ years coding | 25+ projects | 15+ AI/ML models | Active contributor
 
 ###
 
@@ -40,16 +40,9 @@
 
 ###
 
+<h3>🤖 AI/ML & Data Science</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
   <img width="12" />
@@ -59,9 +52,53 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white" height="35" alt="langchain"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black" height="35" alt="huggingface"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" height="35" alt="streamlit"  />
+</div>
+
+###
+
+<h3>🌐 Full-Stack Development</h3>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwindcss logo"  />
+</div>
+
+###
+
+<h3>🗄️ Databases & Tools</h3>
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" height="35" alt="supabase"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/ChromaDB-FF6F61?style=flat&logo=databricks&logoColor=white" height="35" alt="chromadb"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
   <img width="12" />
@@ -69,21 +106,13 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="aws logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=📊+Stats+%26+Achievements;💻+5%2B+Years+Coding;🚀+50%2B+Projects;🤖+10%2B+AI+Models;📦+506+Contributions%2FYear" alt="Stats Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=📊+Stats+%26+Achievements;💻+5%2B+Years+Coding;🚀+25%2B+Projects;🤖+15%2B+AI+Models;📦+Active+Contributor" alt="Stats Typing SVG" />
 </div>
 
 ###
@@ -95,8 +124,44 @@
 | 🧠 [Neurovia AI](https://neuroviai.com) | 🎨 [Crafting Brain](https://craftingbrain.com) | 📝 [Ezz Notes](https://ezznotes.netlify.app) |
 |:---:|:---:|:---:|
 | AI Platform for Business Automation | Creative Digital Agency Platform | Real-time Note-Taking App |
-| React • AI/ML • Node.js • Python | HTML5 • CSS3 • JavaScript | React • Firebase • PWA |
+| React • AI/ML • Node.js • Python | React • Styled Components | React • Firebase • PWA |
 | ⭐ Live & Production Ready | ⭐ Fully Deployed | ⭐ Active Users |
+
+</div>
+
+###
+
+<h2 align="left">🔬 AI/ML Projects</h2>
+
+<div align="center">
+
+| Project | Description | Tech Stack |
+|:--------|:------------|:-----------|
+| 🧠 **Virtual Therapist** | LangGraph-powered autonomous AI agent for mental health with RAG memory & crisis intervention | LangGraph • LangChain • Groq • ChromaDB • FastAPI |
+| 🤖 **Multi-Agent System** | LangGraph-based autonomous task execution with web scraping & MCP integration | LangGraph • Streamlit • ChromaDB • Transformers |
+| 💬 **BuddyAI** | Teen mental health chatbot with crisis detection & RAG responses | LangChain • Mistral-7B • FAISS • Streamlit |
+| 📊 **AI Data Platform** | GUI-based ML platform with natural language instructions & autonomous agent mode | XGBoost • LightGBM • CatBoost • TensorFlow • PyTorch |
+| 📝 **Text Summarizer** | Transformer-based text/PDF summarization with chunked processing | Hugging Face • Flask • PyTorch |
+| ♟️ **AI Chess** | Unbeatable chess game with Stockfish AI engine | Pygame • python-chess • Stockfish |
+| ✋ **Gesture Control** | Hands-free computer control via face, hand & eye tracking | OpenCV • MediaPipe • face-recognition |
+
+</div>
+
+###
+
+<h2 align="left">🌐 Full-Stack Projects</h2>
+
+<div align="center">
+
+| Project | Description | Tech Stack |
+|:--------|:------------|:-----------|
+| 📱 **InnerWhispers Blog** | Full-stack blogging platform with social features | FastAPI • React • Supabase • JWT |
+| 📄 **CV Forge** | Resume builder with PDF generation & image cropping | React • TypeScript • Supabase • jsPDF |
+| 📚 **Assignment Generator** | RAG-powered educational content generator | LangChain • OpenAI • Gemini • Streamlit |
+| 📹 **RTSP Streamer** | Live video streaming with customizable overlays | Flask • React • MongoDB • FFmpeg |
+| 📊 **GoQuant Engine** | High-performance crypto matching engine | Python • WebSocket • REG NMS |
+| 🌐 **Cosmos Browser** | Modern web browser with custom UI | PyQt5 • WebEngine • SQLite |
+| 🎨 **Portfolio** | Personal portfolio with GSAP animations | HTML5 • CSS3 • JavaScript • GSAP |
 
 </div>
 
@@ -106,12 +171,13 @@
 
 ```javascript
 const expertise = {
-    aiML: ["LLMs", "RAG Systems", "NLP", "Deep Learning", "Transformers", "BERT"],
-    dataScience: ["Predictive Modeling", "AutoML", "Data Pipelines", "EDA", "Visualization"],
-    fullStack: ["React", "Node.js", "FastAPI", "MongoDB", "PostgreSQL", "REST APIs"],
-    mlOps: ["Model Deployment", "CI/CD", "Docker", "AWS", "Cloud Infrastructure"],
-    automation: ["LangChain", "Multi-Agent Systems", "Business Process Automation"],
-    freelance: ["Custom AI Solutions", "Healthcare", "EdTech", "Business Analytics"]
+    aiML: ["LangChain", "LangGraph", "RAG Systems", "Multi-Agent Systems", "LLMs", "Transformers", "NLP"],
+    dataScience: ["XGBoost", "LightGBM", "CatBoost", "TensorFlow", "PyTorch", "Scikit-learn", "AutoML"],
+    fullStack: ["React", "FastAPI", "Flask", "Node.js", "Express", "Supabase", "MongoDB", "PostgreSQL"],
+    computerVision: ["OpenCV", "MediaPipe", "face-recognition", "Real-time Detection"],
+    vectorDBs: ["ChromaDB", "FAISS", "Embeddings", "Semantic Search"],
+    tools: ["Docker", "Git", "VS Code", "Jupyter", "Streamlit", "WebSocket APIs"],
+    freelance: ["Custom AI Solutions", "Healthcare AI", "EdTech", "Business Automation"]
 };
 ```
 
@@ -135,15 +201,17 @@ const expertise = {
 
 ```
 ╔═══════════════════════════════════════════════╗
-║  🎓 AI/ML Specialist            [UNLOCKED]    ║
-║  💻 506 Contributions/Year      [UNLOCKED]    ║
-║  🚀 50+ Projects Deployed       [UNLOCKED]    ║
-║  🤖 10+ AI Models Built         [UNLOCKED]    ║
-║  🌐 Full-Stack Master           [UNLOCKED]    ║
-║  📊 Data Science Expert         [UNLOCKED]    ║
-║  🔥 Freelance Developer         [UNLOCKED]    ║
-║  💼 Entrepreneur (Neurovia AI)  [UNLOCKED]    ║
-║  🎯 CGPA 8.0 Scholar            [UNLOCKED]    ║
+║  🧠 LangChain & LangGraph Expert          [UNLOCKED]              ║
+║  🤖 Multi-Agent Systems Developer         [UNLOCKED]              ║
+║  💬 RAG Systems Architect                 [UNLOCKED]              ║
+║  🚀 25+ Projects Deployed                 [UNLOCKED]              ║
+║  🔬 15+ AI/ML Models Built                [UNLOCKED]              ║
+║  🌐 Full-Stack Developer                  [UNLOCKED]              ║
+║  📊 Data Science Expert                   [UNLOCKED]              ║
+║  👁️ Computer Vision Specialist           [UNLOCKED]              ║
+║  🔥 Freelance AI Developer                [UNLOCKED]              ║
+║  💼 Entrepreneur (Neurovia AI)            [UNLOCKED]              ║
+║  🎯 CGPA 8.0 Scholar                      [UNLOCKED]              ║
 ╚═══════════════════════════════════════════════╝
 ```
 
