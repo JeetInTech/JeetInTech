@@ -189,12 +189,6 @@ const expertise = {
 
 ###
 
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="200" alt="coding gif"/>
-</div>
-
-###
-
 <h2 align="left">🏆 Achievements</h2>
 
 <div align="center">
@@ -256,7 +250,7 @@ const expertise = {
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/JeetInTech/JeetInTech/output/snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/JeetInTech/JeetInTech/output/snake.svg" alt="Snake animation" />
 </div>
 
 ###
