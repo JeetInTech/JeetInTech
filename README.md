@@ -32,7 +32,9 @@
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JeetInTech&theme=chartreuse-dark&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&border=00ff41" alt="GitHub Daily Streak" height="180" />
-  <img width="12" />
+</div>
+
+<div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JeetInTech&theme=github_dark" alt="Total Commits Till Date" />
 </div>
 
