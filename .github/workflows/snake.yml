@@ -23,8 +23,8 @@ jobs:
         with:
           github_user_name: JeetInTech
           outputs: |
-            dist/snake.svg?color_snake=#ADFF2F&color_dots=#ffffff,#d4f5a0,#9de84d,#6cc800,#4a9400
-            dist/snake-dark.svg?palette=github-dark&color_snake=#ADFF2F&color_dots=#0d1117,#1a3300,#2d5c00,#4a9400,#6cc800
+            dist/snake.svg?color_snake=#ADFF2F&color_dots=#FFF9C4,#E5A88B,#C87D55,#A6522C,#7D2E14
+            dist/snake-dark.svg?palette=github-dark&color_snake=#ADFF2F&color_dots=#1C190D,#5C1D06,#8B2A0C,#B63D18,#DC5328
 
       - name: push snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v4

@@ -215,7 +215,7 @@
 <div align="center">
 
 [![AI Data Analyst](https://github-readme-stats.vercel.app/api/pin/?username=JeetInTech&repo=Ai-data-analyst&theme=chartreuse-dark&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=00ff41)](https://github.com/JeetInTech/Ai-data-analyst)
-[![YouTube Shorts Automation](https://github-readme-stats.vercel.app/api/pin/?username=JeetInTech&repo=Youtube-shorts-Automation&theme=chartreuse-dark&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=00ff41)](https://github.com/JeetInTech/Youtube-shorts-Automation)
+[![Social Media RSS Feed](https://github-readme-stats.vercel.app/api/pin/?username=JeetInTech&repo=Social-Media-RSS-Feeds---news-feed&theme=chartreuse-dark&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=00ff41)](https://github.com/JeetInTech/Social-Media-RSS-Feeds---news-feed)
 
 </div>
 
@@ -342,7 +342,11 @@ currently_building:
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/JeetInTech/JeetInTech/output/snake.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JeetInTech/JeetInTech/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JeetInTech/JeetInTech/output/snake.svg" />
+    <img src="https://raw.githubusercontent.com/JeetInTech/JeetInTech/output/snake.svg" alt="Snake animation" />
+  </picture>
 </div>
 
 ###
