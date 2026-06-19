@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="left">👨‍💻 About Me</h2>
+<h2 align="left"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="28" style="vertical-align:middle"/> &nbsp;About Me</h2>
 
 <img align="right" height="200" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
 
@@ -27,13 +27,13 @@
 
 <br/>
 
-- 🤖 **AI/ML Engineer** — LangGraph, RAG Systems, Multi-Agent Architectures, LLMs
-- 💼 **Founder** of [Neurovia AI](https://neuroviai.com/) — live AI SaaS in production
-- 🧠 Built **Sebastian** — autonomous 59-tool personal assistant with OS control & voice
-- 📦 Open-source author: [YouTube Shorts Automation Pipeline](https://github.com/JeetInTech/Youtube-shorts-Automation)
-- 📚 Self-published author on Amazon — *"The Future of Touchless Technology"*
-- 🎓 B.Tech CS (AI/ML) · CGPA 8.0 · IDEATHON 2.0 Winner · AWS & GCP Certified
-- 💡 5+ years coding · 30+ projects · 15+ AI/ML models shipped to production
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="18" style="vertical-align:middle"/> &nbsp;**AI/ML Engineer** — LangGraph, RAG Systems, Multi-Agent Architectures, LLMs
+- <img src="https://img.shields.io/badge/-Founder-00D9FF?style=flat-square&logo=react&logoColor=white" height="18" style="vertical-align:middle"/> &nbsp;**Founder** of [Neurovia AI](https://neuroviai.com/) — live AI SaaS in production
+- <img src="https://img.shields.io/badge/-Autonomous%20AI-FF6B35?style=flat-square&logo=openai&logoColor=white" height="18" style="vertical-align:middle"/> &nbsp;Built **Sebastian** — autonomous 59-tool personal assistant with OS control & voice
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="18" style="vertical-align:middle"/> &nbsp;Open-source author: [YouTube Shorts Automation Pipeline](https://github.com/JeetInTech/Youtube-shorts-Automation)
+- <img src="https://img.shields.io/badge/-Amazon%20KDP-FF9900?style=flat-square&logo=amazon&logoColor=white" height="18" style="vertical-align:middle"/> &nbsp;Self-published author — *"The Future of Touchless Technology"*
+- <img src="https://img.shields.io/badge/-B.Tech%20AI%2FML-4285F4?style=flat-square&logo=googlescholar&logoColor=white" height="18" style="vertical-align:middle"/> &nbsp;CS (AI/ML) · CGPA 8.0 · IDEATHON 2.0 Winner · AWS & GCP Certified
+- <img src="https://img.shields.io/badge/-5%2B%20Years-00FF41?style=flat-square&logo=leetcode&logoColor=black" height="18" style="vertical-align:middle"/> &nbsp;5+ years coding · 30+ projects · 15+ AI/ML models shipped to production
 
 <br/>
 
@@ -54,9 +54,9 @@
 
 ###
 
-<h2 align="left">🔥 Tech Stack</h2>
+<h2 align="left"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="26" style="vertical-align:middle"/> &nbsp;Tech Stack</h2>
 
-<h3>🤖 AI / ML & Agentic Systems</h3>
+<h3><img src="https://img.shields.io/badge/AI%20%2F%20ML-Agentic%20Systems-00FF41?style=flat-square&logo=openai&logoColor=white&labelColor=0d1117" height="22"/> AI / ML & Agentic Systems</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" />
   <img width="12" />
@@ -89,7 +89,7 @@
 
 <br/>
 
-<h3>🌐 Full-Stack Development</h3>
+<h3><img src="https://img.shields.io/badge/Full--Stack-Development-6C63FF?style=flat-square&logo=react&logoColor=white&labelColor=0d1117" height="22"/> Full-Stack Development</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript" />
   <img width="12" />
@@ -114,7 +114,7 @@
 
 <br/>
 
-<h3>🗄️ Databases, DevOps & Cloud</h3>
+<h3><img src="https://img.shields.io/badge/Databases-DevOps%20%26%20Cloud-3ECF8E?style=flat-square&logo=postgresql&logoColor=white&labelColor=0d1117" height="22"/> Databases, DevOps & Cloud</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql" />
   <img width="12" />
@@ -149,18 +149,18 @@
 
 ---
 
-<h2 align="left">🧠 AI Software Systems</h2>
+<h2 align="left"><img src="https://img.shields.io/badge/AI-Software%20Systems-00FF41?style=flat-square&logo=openai&logoColor=white&labelColor=0d1117" height="26"/> &nbsp;AI Software Systems</h2>
 
 <div align="center">
 
 | Project | Description | Stack | Status |
 |:--------|:------------|:-------|:------:|
-| 🤖 **[Sebastian](https://github.com/JeetInTech)** | Fully autonomous personal assistant — 59+ tools, OS & browser control, Gemini Live real-time voice, camera/screen vision, 3-tier safety gate (GREEN/YELLOW/RED), multi-layer memory with pgvector, Discord voice bridge, 110+ API integrations | `Python` `FastAPI` `pgvector` `Gemini Live` `Playwright` `Edge TTS` | 🔒 Private |
-| 🌐 **[Neurovia AI](https://neuroviai.com)** | AI Social Media Automation SaaS — 4-tier LLM cascade (99.7% reliability), autonomous cross-platform posting, Razorpay billing, OAuth flows, 50+ DAU, 99.5% uptime | `Next.js 14` `FastAPI` `PostgreSQL` `Supabase` `Gemini` `OpenAI` `Docker` | 🟢 Live |
-| 📊 **[Multi-Agent Data Analytics Platform](https://github.com/JeetInTech/AI-Data-Analysis-Platform---Agent)** | Desktop AI analytics suite — 6-agent LLM pipeline (Profiler→Cleaner→Feature Engineer→Model Selector→Visualizer→Orchestrator), 11 ML models benchmarked, 20+ chart types, offline LLM failover (Groq→Gemini→Ollama) | `PySide6` `Python` `Groq` `Gemini` `Ollama` `XGBoost` `LightGBM` | 🟡 GitHub |
-| 🧬 **[Virtual Therapist](https://github.com/JeetInTech/Agentic-AI-for-personalized-mental-health-therapy-recommendations-via-multi-modal-sentiment-analysis)** | Stateful 3-agent LangGraph system (intake → emotion-detection → therapeutic-response) with deterministic state transitions, speech-to-text, and adaptive emotional context | `LangGraph` `LangChain` `Groq` `ChromaDB` `FastAPI` `PostgreSQL` | 🟡 GitHub |
-| 💬 **BuddyAI** | Teen mental health chatbot with real-time crisis detection, RAG-powered responses, and Mistral-7B fine-tuning | `LangChain` `Mistral-7B` `FAISS` `Streamlit` | 🟡 GitHub |
-| ✋ **[Gesture Control](https://github.com/JeetInTech)** | Hands-free OS control via real-time face, hand & eye tracking — zero hardware required | `OpenCV` `MediaPipe` `face-recognition` `PyAutoGUI` | 🟡 GitHub |
+| <img src="https://img.shields.io/badge/Private-Sebastian-FF6B35?style=flat-square&logo=openai&logoColor=white" height="18"/> &nbsp;**[Sebastian](https://github.com/JeetInTech)** | Fully autonomous personal assistant — 59+ tools, OS & browser control, Gemini Live real-time voice, camera/screen vision, 3-tier safety gate (GREEN/YELLOW/RED), multi-layer memory with pgvector, Discord voice bridge, 110+ API integrations | `Python` `FastAPI` `pgvector` `Gemini Live` `Playwright` `Edge TTS` | 🔒 Private |
+| <img src="https://img.shields.io/badge/Live-Neurovia%20AI-00D9FF?style=flat-square&logo=react&logoColor=white" height="18"/> &nbsp;**[Neurovia AI](https://neuroviai.com)** | AI Social Media Automation SaaS — 4-tier LLM cascade (99.7% reliability), autonomous cross-platform posting, Razorpay billing, OAuth flows, 50+ DAU, 99.5% uptime | `Next.js 14` `FastAPI` `PostgreSQL` `Supabase` `Gemini` `OpenAI` `Docker` | 🟢 Live |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="18"/> &nbsp;**[Multi-Agent Data Analytics Platform](https://github.com/JeetInTech/AI-Data-Analysis-Platform---Agent)** | Desktop AI analytics suite — 6-agent LLM pipeline (Profiler→Cleaner→Feature Engineer→Model Selector→Visualizer→Orchestrator), 11 ML models benchmarked, 20+ chart types, offline LLM failover (Groq→Gemini→Ollama) | `PySide6` `Python` `Groq` `Gemini` `Ollama` `XGBoost` `LightGBM` | 🟡 GitHub |
+| <img src="https://img.shields.io/badge/LangGraph-Agentic-FF6B35?style=flat-square&logo=langchain&logoColor=white" height="18"/> &nbsp;**[Virtual Therapist](https://github.com/JeetInTech/Agentic-AI-for-personalized-mental-health-therapy-recommendations-via-multi-modal-sentiment-analysis)** | Stateful 3-agent LangGraph system (intake → emotion-detection → therapeutic-response) with deterministic state transitions, speech-to-text, and adaptive emotional context | `LangGraph` `LangChain` `Groq` `ChromaDB` `FastAPI` `PostgreSQL` | 🟡 GitHub |
+| <img src="https://img.shields.io/badge/RAG-BuddyAI-1C3C3C?style=flat-square&logo=langchain&logoColor=white" height="18"/> &nbsp;**BuddyAI** | Teen mental health chatbot with real-time crisis detection, RAG-powered responses, and Mistral-7B fine-tuning | `LangChain` `Mistral-7B` `FAISS` `Streamlit` | 🟡 GitHub |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="18"/> &nbsp;**[Gesture Control](https://github.com/JeetInTech)** | Hands-free OS control via real-time face, hand & eye tracking — zero hardware required | `OpenCV` `MediaPipe` `face-recognition` `PyAutoGUI` | 🟡 GitHub |
 
 </div>
 
@@ -168,15 +168,15 @@
 
 ---
 
-<h2 align="left">⚙️ Intelligent Automation Pipelines</h2>
+<h2 align="left"><img src="https://img.shields.io/badge/Intelligent-Automation%20Pipelines-FF9900?style=flat-square&logo=amazonaws&logoColor=white&labelColor=0d1117" height="26"/> &nbsp;Intelligent Automation Pipelines</h2>
 
 <div align="center">
 
 | Project | Description | Stack | Status |
 |:--------|:------------|:-------|:------:|
-| 📹 **[YouTube Shorts Automation](https://github.com/JeetInTech/Youtube-shorts-Automation)** | End-to-end automated short-form video pipeline: trend scraping (Reddit, HN, Google Trends) → LLM script generation with quality scoring → voice synthesis → FFmpeg video assembly → YouTube upload with metadata. Multi-channel, 4+ videos/run, Windows Task Scheduler for unattended daily posting | `Python` `Ollama` `FFmpeg` `edge-tts` `Pexels API` `YouTube Data API v3` | 🟢 Open Source |
-| 🎯 **[Neurovia Careers / CV Forge](https://github.com/JeetInTech/CvForge-Online)** | AI-powered ATS resume builder — weighted scoring engine (keyword 40%, completeness 35%, format 25%), 90%+ ATS compatibility across 15+ job categories, 4 custom LaTeX export templates, Groq AI bullet & summary generation, Supabase auth with shareable public CV links | `React 18` `TypeScript` `FastAPI` `Supabase` `Groq` `Vite` | 🟡 GitHub |
-| ♟️ **[AI Chess Engine](https://github.com/JeetInTech/AI-CHESS)** | Full chess implementation against Stockfish AI engine with configurable difficulty levels | `Pygame` `python-chess` `Stockfish` | 🟡 GitHub |
+| <img src="https://img.shields.io/badge/Open%20Source-YouTube%20Shorts-FF0000?style=flat-square&logo=youtube&logoColor=white" height="18"/> &nbsp;**[YouTube Shorts Automation](https://github.com/JeetInTech/Youtube-shorts-Automation)** | End-to-end automated short-form video pipeline: trend scraping (Reddit, HN, Google Trends) → LLM script generation with quality scoring → voice synthesis → FFmpeg video assembly → YouTube upload with metadata. Multi-channel, 4+ videos/run, Windows Task Scheduler for unattended daily posting | `Python` `Ollama` `FFmpeg` `edge-tts` `Pexels API` `YouTube Data API v3` | 🟢 Open Source |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="18"/> &nbsp;**[Neurovia Careers / CV Forge](https://github.com/JeetInTech/CvForge-Online)** | AI-powered ATS resume builder — weighted scoring engine (keyword 40%, completeness 35%, format 25%), 90%+ ATS compatibility across 15+ job categories, 4 custom LaTeX export templates, Groq AI bullet & summary generation, Supabase auth with shareable public CV links | `React 18` `TypeScript` `FastAPI` `Supabase` `Groq` `Vite` | 🟡 GitHub |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="18"/> &nbsp;**[AI Chess Engine](https://github.com/JeetInTech/AI-CHESS)** | Full chess implementation against Stockfish AI engine with configurable difficulty levels | `Pygame` `python-chess` `Stockfish` | 🟡 GitHub |
 
 </div>
 
@@ -184,19 +184,19 @@
 
 ---
 
-<h2 align="left">🌐 Full-Stack AI Products</h2>
+<h2 align="left"><img src="https://img.shields.io/badge/Full--Stack-AI%20Products-6C63FF?style=flat-square&logo=react&logoColor=white&labelColor=0d1117" height="26"/> &nbsp;Full-Stack AI Products</h2>
 
 <div align="center">
 
 | Project | Description | Stack | Status |
 |:--------|:------------|:-------|:------:|
-| 🎨 **[Crafting Brain](https://craftingbrain.com)** | Live content-tech platform — NLP pipelines for sentiment scoring, topic extraction & content optimization in production. AWS EC2/S3/Nginx managed infrastructure, GitHub Actions CI/CD | `FastAPI` `Python` `AWS` `Docker` `Nginx` | 🟢 Live |
-| 📝 **[Ezz Notes](https://ezznotes.netlify.app)** | Real-time PWA note-taking app with offline support and active user base | `React` `Firebase` `PWA` | 🟢 Live |
-| 📱 **InnerWhispers Blog** | Full-stack blogging platform with social features, JWT auth, and real-time updates | `FastAPI` `React` `Supabase` `JWT` | 🟡 GitHub |
-| 📹 **RTSP Streamer** | Live video streaming platform with customizable overlays and multi-feed support | `Flask` `React` `MongoDB` `FFmpeg` | 🟡 GitHub |
-| 📊 **GoQuant Engine** | High-performance cryptocurrency order matching engine with WebSocket feeds | `Python` `WebSocket` `REG NMS` | 🟡 GitHub |
-| 🌐 **Cosmos Browser** | Custom desktop web browser with modern UI, bookmarks, history and tab management | `PyQt5` `WebEngine` `SQLite` | 🟡 GitHub |
-| 📝 **Text Summarizer** | Transformer-based text & PDF summarization with chunked document processing | `Hugging Face` `Flask` `PyTorch` | 🟡 GitHub |
+| <img src="https://img.shields.io/badge/Live-Crafting%20Brain-3ECF8E?style=flat-square&logo=fastapi&logoColor=white" height="18"/> &nbsp;**[Crafting Brain](https://craftingbrain.com)** | Live content-tech platform — NLP pipelines for sentiment scoring, topic extraction & content optimization in production. AWS EC2/S3/Nginx managed infrastructure, GitHub Actions CI/CD | `FastAPI` `Python` `AWS` `Docker` `Nginx` | 🟢 Live |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="18"/> &nbsp;**[Ezz Notes](https://ezznotes.netlify.app)** | Real-time PWA note-taking app with offline support and active user base | `React` `Firebase` `PWA` | 🟢 Live |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="18"/> &nbsp;**InnerWhispers Blog** | Full-stack blogging platform with social features, JWT auth, and real-time updates | `FastAPI` `React` `Supabase` `JWT` | 🟡 GitHub |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="18"/> &nbsp;**RTSP Streamer** | Live video streaming platform with customizable overlays and multi-feed support | `Flask` `React` `MongoDB` `FFmpeg` | 🟡 GitHub |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="18"/> &nbsp;**GoQuant Engine** | High-performance cryptocurrency order matching engine with WebSocket feeds | `Python` `WebSocket` `REG NMS` | 🟡 GitHub |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="18"/> &nbsp;**Cosmos Browser** | Custom desktop web browser with modern UI, bookmarks, history and tab management | `PyQt5` `WebEngine` `SQLite` | 🟡 GitHub |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="18"/> &nbsp;**Text Summarizer** | Transformer-based text & PDF summarization with chunked document processing | `Hugging Face` `Flask` `PyTorch` | 🟡 GitHub |
 
 </div>
 
@@ -204,11 +204,11 @@
 
 ---
 
-<h2 align="left">📦 Open Source</h2>
+<h2 align="left"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="26" style="vertical-align:middle"/> &nbsp;Open Source</h2>
 
 <div align="center">
 
-### ⭐ Featured Open-Source Release
+### <img src="https://img.shields.io/badge/⭐-Featured%20Releases-FFD700?style=flat-square&labelColor=1a1a2e" height="22"/> Featured Open-Source Releases
 
 [![YouTube Shorts Automation](https://github-readme-stats.vercel.app/api/pin/?username=JeetInTech&repo=Youtube-shorts-Automation&theme=chartreuse-dark&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=00ff41)](https://github.com/JeetInTech/Youtube-shorts-Automation)
 [![AI Data Analytics Platform](https://github-readme-stats.vercel.app/api/pin/?username=JeetInTech&repo=AI-Data-Analysis-Platform---Agent&theme=chartreuse-dark&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=00ff41)](https://github.com/JeetInTech/AI-Data-Analysis-Platform---Agent)
@@ -226,7 +226,7 @@
 
 ---
 
-<h2 align="left">💼 Expertise & Services</h2>
+<h2 align="left"><img src="https://img.shields.io/badge/Expertise-&%20Services-00FF41?style=flat-square&logo=lightning&logoColor=black&labelColor=0d1117" height="26"/> &nbsp;Expertise & Services</h2>
 
 ```javascript
 const sangramjeet = {
@@ -247,13 +247,13 @@ const sangramjeet = {
 
 ---
 
-<h2 align="left">🏆 Achievements & Recognition</h2>
+<h2 align="left"><img src="https://img.shields.io/badge/Achievements-&%20Recognition-FFD700?style=flat-square&logo=trophy&logoColor=black&labelColor=1a1a2e" height="26"/> &nbsp;Achievements & Recognition</h2>
 
 <div align="center">
 
-![IDEATHON Winner](https://img.shields.io/badge/🏆%20IDEATHON%202.0-Winner-FFD700?style=for-the-badge&labelColor=1a1a2e)
-![METALLOOP](https://img.shields.io/badge/⚡%20METALLOOP%202K23-National%20Hackathon-FF6B35?style=for-the-badge&labelColor=1a1a2e)
-![Amazon Author](https://img.shields.io/badge/📚%20Amazon%20KDP-Published%20Author-FF9900?style=for-the-badge&labelColor=1a1a2e&link=https://www.amazon.com/dp/B0FBLC1RLT)
+![IDEATHON Winner](https://img.shields.io/badge/IDEATHON%202.0-Winner-FFD700?style=for-the-badge&logo=trophy&logoColor=black&labelColor=1a1a2e)
+![METALLOOP](https://img.shields.io/badge/METALLOOP%202K23-National%20Hackathon-FF6B35?style=for-the-badge&logo=lightning&logoColor=white&labelColor=1a1a2e)
+![Amazon Author](https://img.shields.io/badge/Amazon%20KDP-Published%20Author-FF9900?style=for-the-badge&logo=amazon&logoColor=white&labelColor=1a1a2e)
 
 </div>
 
