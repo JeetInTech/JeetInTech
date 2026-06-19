@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Typing SVG themed in Matrix Green -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1500&color=00FF41&center=true&vCenter=true&width=650&lines=sys.init()+--+Sangramjeet+Ghosh;role.current+--+Full+Stack+AI+Engineer;systems.status+--+(⌐■_■)+online" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1500&color=00FF41&center=true&vCenter=true&width=650&lines=sys.init()+--+Sangramjeet+Ghosh;role.current+--+Full+Stack+AI+Engineer;systems.status+--+active" alt="Typing SVG" />
 </div>
 
 <br />
@@ -11,7 +11,7 @@
 
 <br />
 
-## ❖ sys.profile (・_・)ノ
+## ❖ sys.profile
 
 I am a **Systems-focused AI & Full-Stack Engineer** specializing in local agent orchestration, VRAM-efficient offline inference, and automated production pipelines. I design resource-constrained systems and developer automations that bridge offline models with cloud infrastructures.
 
@@ -21,7 +21,7 @@ I am a **Systems-focused AI & Full-Stack Engineer** specializing in local agent 
 
 ---
 
-## ⚙ Core Software Ecosystem
+## ❖ Core Software Ecosystem
 
 ### ✦ Offline-First Systems & GPU Optimization
 
@@ -40,7 +40,7 @@ I am a **Systems-focused AI & Full-Stack Engineer** specializing in local agent 
 | **Neurovia Careers** | Weighted ATS resume compiler and builder featuring Groq-assisted bullets and custom LaTeX export rendering professional PDF templates. | React • TypeScript • FastAPI • Supabase | [GitHub](https://github.com/JeetInTech/CvForge-Online) |
 
 <details>
-  <summary><b>❖ Collapsible Archive: Hackathon & Academic Experiments ( ﾟｰﾟ)</b></summary>
+  <summary><b>❖ Archive: Hackathon & Academic Experiments</b></summary>
   <br />
   
   * **NeuroviaI Analytics** ── PySide6 Qt desktop analytics software driven by a 6-agent LLM pipeline.
@@ -52,7 +52,7 @@ I am a **Systems-focused AI & Full-Stack Engineer** specializing in local agent 
 
 ---
 
-## 🛠 Tech Stack & Utilities
+## ❖ Tech Stack & Utilities
 
 ```text
 [Languages]    :: Python, TypeScript, JavaScript, SQL, Bash, LaTeX
@@ -79,7 +79,7 @@ I am a **Systems-focused AI & Full-Stack Engineer** specializing in local agent 
 
 ---
 
-## 📊 Analytics & Commits
+## ❖ Analytics & Commits
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JeetInTech&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=chartreuse-dark&locale=en&hide_border=false&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=00ff41" height="170" alt="stats graph" />
@@ -100,7 +100,7 @@ I am a **Systems-focused AI & Full-Stack Engineer** specializing in local agent 
 
 ---
 
-## 🏆 Achievements
+## ❖ Achievements
 
 ```text
 ╔═══════════════════════════════════════════════════════════════╗
@@ -113,7 +113,7 @@ I am a **Systems-focused AI & Full-Stack Engineer** specializing in local agent 
 
 ---
 
-## ✉ Connect & Networks ( ^_^)／
+## ❖ Connect & Networks
 
 <div align="left">
   <a href="https://github.com/JeetInTech" target="_blank">
