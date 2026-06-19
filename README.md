@@ -304,27 +304,6 @@ currently_building:
 
 </div>
 
-<div align="center">
-
-```
-┌─────────────────────────────────────────────────────────────┐
-│  🧠  LangGraph & LangGraph Expert               [UNLOCKED]  │
-│  🤖  Multi-Agent Systems Developer              [UNLOCKED]  │
-│  💬  RAG Systems Architect                      [UNLOCKED]  │
-│  🚀  30+ Projects Shipped to Production         [UNLOCKED]  │
-│  🔬  15+ AI/ML Models Built                     [UNLOCKED]  │
-│  🌐  Full-Stack SaaS Developer                  [UNLOCKED]  │
-│  📊  Data Science & AutoML Expert               [UNLOCKED]  │
-│  👁️   Computer Vision Specialist                [UNLOCKED]  │
-│  🔥  Freelance AI Developer (3+ Startup MVPs)   [UNLOCKED]  │
-│  💼  Entrepreneur — Neurovia AI (Live SaaS)     [UNLOCKED]  │
-│  📚  Self-Published Author — Amazon KDP         [UNLOCKED]  │
-│  🎯  CGPA 8.0 · IDEATHON 2.0 Winner             [UNLOCKED]  │
-└─────────────────────────────────────────────────────────────┘
-```
-
-</div>
-
 ###
 
 ---
