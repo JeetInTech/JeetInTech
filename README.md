@@ -208,19 +208,21 @@
 
 <div align="center">
 
+
 ### <img src="https://img.shields.io/badge/⭐-Featured%20Releases-FFD700?style=flat-square&labelColor=1a1a2e" height="22"/> Featured Open-Source Releases
 
-[![YouTube Shorts Automation](https://github-readme-stats.vercel.app/api/pin/?username=JeetInTech&repo=Youtube-shorts-Automation&theme=chartreuse-dark&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=00ff41)](https://github.com/JeetInTech/Youtube-shorts-Automation)
-[![AI Data Analytics Platform](https://github-readme-stats.vercel.app/api/pin/?username=JeetInTech&repo=AI-Data-Analysis-Platform---Agent&theme=chartreuse-dark&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=00ff41)](https://github.com/JeetInTech/AI-Data-Analysis-Platform---Agent)
+[![Offline Image Generation](https://github-readme-stats.vercel.app/api/pin/?username=JeetInTech&repo=Offline-Image-Generation-v1.0&theme=chartreuse-dark&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=00ff41)](https://github.com/JeetInTech/Offline-Image-Generation-v1.0)
+[![Local Cortex](https://github-readme-stats.vercel.app/api/pin/?username=JeetInTech&repo=Local-Cortex-your-local-chatgpt-with-built-in-editor&theme=chartreuse-dark&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=00ff41)](https://github.com/JeetInTech/Local-Cortex-your-local-chatgpt-with-built-in-editor)
 
 </div>
 
 <div align="center">
 
-[![Virtual Therapist](https://github-readme-stats.vercel.app/api/pin/?username=JeetInTech&repo=Agentic-AI-for-personalized-mental-health-therapy-recommendations-via-multi-modal-sentiment-analysis&theme=chartreuse-dark&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=00ff41)](https://github.com/JeetInTech/Agentic-AI-for-personalized-mental-health-therapy-recommendations-via-multi-modal-sentiment-analysis)
-[![CV Forge](https://github-readme-stats.vercel.app/api/pin/?username=JeetInTech&repo=CvForge-Online&theme=chartreuse-dark&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=00ff41)](https://github.com/JeetInTech/CvForge-Online)
+[![Neurovia Careers](https://github-readme-stats.vercel.app/api/pin/?username=JeetInTech&repo=Neuroviai-Careers&theme=chartreuse-dark&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=00ff41)](https://github.com/JeetInTech/Neuroviai-Careers)
+[![AI Data Analyst](https://github-readme-stats.vercel.app/api/pin/?username=JeetInTech&repo=Ai-data-analyst&theme=chartreuse-dark&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=00ff41)](https://github.com/JeetInTech/Ai-data-analyst)
 
 </div>
+
 
 ###
 
