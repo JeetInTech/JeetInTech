@@ -230,19 +230,54 @@
 
 <h2 align="left"><img src="https://img.shields.io/badge/Expertise-&%20Services-00FF41?style=flat-square&logo=lightning&logoColor=black&labelColor=0d1117" height="26"/> &nbsp;Expertise & Services</h2>
 
-```javascript
-const sangramjeet = {
-    role: "AI & Full-Stack Engineer | Founder | Open-Source Author",
-    aiSystems: ["LangGraph", "LangChain", "RAG Pipelines", "Multi-Agent Systems", "LLMs", "Autonomous Agents"],
-    llmProviders: ["Gemini API", "OpenAI", "Groq", "Mistral", "Ollama (local)", "HuggingFace"],
-    dataScience: ["XGBoost", "LightGBM", "CatBoost", "TensorFlow", "PyTorch", "Scikit-learn", "AutoML"],
-    fullStack: ["React 18", "Next.js 14", "FastAPI", "Node.js", "TypeScript", "Supabase", "PostgreSQL"],
-    computerVision: ["OpenCV", "MediaPipe", "face-recognition", "Real-time Detection"],
-    vectorDBs: ["pgvector", "ChromaDB", "FAISS", "Semantic Search", "Embeddings"],
-    devOps: ["Docker", "GitHub Actions CI/CD", "AWS EC2/S3/IAM", "Nginx", "Render", "Netlify"],
-    freelance: ["End-to-End SaaS MVPs", "AI Integration", "Healthcare AI", "EdTech", "Business Automation"],
-    currentlyBuilding: "Sebastian — Autonomous AI Personal Assistant (59+ tools, 110+ API integrations)"
-};
+```yaml
+# ═══════════════════════════════════════════════════════════════
+#  SANGRAMJEET GHOSH  ·  AI Engineer & Full-Stack Developer
+# ═══════════════════════════════════════════════════════════════
+
+profile:
+  education:    "B.Tech CS (AI/ML) · Malla Reddy University · GPA 8.0/10"
+  thesis:       "Cost-Constrained AI Automation Systems (Neuroviai) — 15K Python + 12K TypeScript"
+  location:     "Hyderabad, India"
+  languages:    ["English (Professional)", "Hindi (Native)", "Bengali (Native)"]
+
+experience:
+  - role:       "Freelance AI & Full-Stack Developer"
+    period:     "Aug 2025 → Present"
+    highlights:
+      - "Delivered end-to-end MVPs for 3+ startup founders"
+      - "SaaS products with Razorpay billing, JWT/OAuth, multi-platform API integrations"
+      - "Deployed across AWS · Render · Vercel · Netlify with custom domains & SSL"
+      - "LLM cost control: quota splitting, response caching, request batching"
+
+  - role:       "Data Science Intern — Inikola Technologies (CraftingBrain.com)"
+    period:     "Mar 2025 → Dec 2025"
+    highlights:
+      - "Built NLP pipelines for sentiment scoring, topic extraction & content optimization"
+      - "Managed AWS EC2 · S3 · IAM · Nginx reverse-proxy in production"
+      - "Multi-stage Docker builds · GitHub Actions CI/CD zero-downtime deployments"
+
+skills:
+  languages:    ["Python", "TypeScript", "JavaScript", "SQL", "HTML5/CSS3", "Bash"]
+  ai_ml:        ["LangChain", "LangGraph", "RAG Pipelines", "Multi-Agent Systems",
+                 "Gemini API", "OpenAI", "Groq", "pgvector", "Prompt Engineering",
+                 "XGBoost", "LightGBM", "Scikit-learn", "Pandas", "NumPy"]
+  backend:      ["FastAPI", "REST APIs", "WebSockets", "JWT/OAuth 2.0",
+                 "Microservices", "Async Python", "SQLAlchemy ORM"]
+  frontend:     ["React 18", "Next.js 14 App Router", "Tailwind CSS",
+                 "Zustand", "ShadCN/UI", "Vite", "TypeScript"]
+  databases:    ["PostgreSQL", "Supabase", "pgvector", "Redis", "MongoDB"]
+  devops_cloud: ["AWS (EC2·S3·IAM)", "Docker", "Docker Compose",
+                 "GitHub Actions CI/CD", "Nginx", "Render", "Vercel", "Netlify", "FFmpeg"]
+  tools:        ["Git", "Postman", "VS Code", "Playwright", "PyAutoGUI"]
+
+currently_building:
+  name:         "Sebastian — Fully Autonomous AI Personal Assistant"
+  tools:        "59+ tools · 110+ API integrations"
+  highlights:   ["OS & browser control", "Gemini Live real-time voice (bidirectional)",
+                 "Camera + screen vision", "3-tier permission gate (GREEN/YELLOW/RED)",
+                 "Discord voice bridge (48kHz→16kHz PCM resampling)",
+                 "Multi-layer memory: episodic + semantic + behavioral (pgvector)"]
 ```
 
 ###
