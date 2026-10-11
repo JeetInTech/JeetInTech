@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2800&pause=2000&color=00FF41&center=true&vCenter=true&width=700&lines=Building+Production+AI+Systems+%F0%9F%A4%96;Autonomous+Agents+%26+Multi-Agent+Pipelines;Full-Stack+SaaS+from+0+to+Launch+%F0%9F%9A%80;Founder+of+Neurovia+AI+%F0%9F%8C%90;Open+Source+Contributor+%F0%9F%93%A6" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2800&pause=2000&color=00FF41&center=true&vCenter=true&width=700&lines=Building+Production+AI+Systems+%F0%9F%A4%96;Autonomous+Agents+%26+Multi-Agent+Pipelines;Full-Stack+SaaS+from+0+to+Launch+%F0%9F%9A%80;Founder+of+Neuroviai+%F0%9F%8C%90;Open+Source+Contributor+%F0%9F%93%A6" alt="Typing SVG" />
 </div>
 
 ###
@@ -21,14 +21,14 @@
 <br/>
 
 ![AI/ML](https://img.shields.io/badge/AI%2FML%20Engineer-LangGraph%20%7C%20RAG%20%7C%20Multi--Agent-00FF41?style=flat-square&logo=openai&logoColor=white&labelColor=0d1117)
-![Founder](https://img.shields.io/badge/Founder-Neurovia%20AI-00D9FF?style=flat-square&logo=react&logoColor=white&labelColor=0d1117)
+![Founder](https://img.shields.io/badge/Founder-Neuroviai%20AI-00D9FF?style=flat-square&logo=react&logoColor=white&labelColor=0d1117)
 ![Full-Stack](https://img.shields.io/badge/Full--Stack-React%20%7C%20FastAPI%20%7C%20Next.js-6C63FF?style=flat-square&logo=fastapi&logoColor=white&labelColor=0d1117)
 ![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-FF6B6B?style=flat-square&logo=github&logoColor=white&labelColor=0d1117)
 
 <br/>
 
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="18" style="vertical-align:middle"/> &nbsp;**AI/ML & Distributed Systems Engineer** — LangGraph, MCP SDK, Multi-Agent Swarms, RAG Pipelines
-- <img src="https://img.shields.io/badge/-Founder-00D9FF?style=flat-square&logo=react&logoColor=white" height="18" style="vertical-align:middle"/> &nbsp;**Creator & Architect** of [Neurovia AI](https://neuroviai.dev) — Multi-model LLM gateway (99.7% uptime) & SaaS with 1.2K+ monthly visitors
+- <img src="https://img.shields.io/badge/-Founder-00D9FF?style=flat-square&logo=react&logoColor=white" height="18" style="vertical-align:middle"/> &nbsp;**Creator & Architect** of [Neuroviai](https://neuroviai.dev) — Multi-model LLM gateway (99.7% uptime) & SaaS with 1.2K+ monthly visitors
 - <img src="https://img.shields.io/badge/-Autonomous%20AI-FF6B35?style=flat-square&logo=openai&logoColor=white" height="18" style="vertical-align:middle"/> &nbsp;Built **Sebastian** — Autonomous AI OS with Gemini Live full-duplex voice (~400ms turnaround) & 92 MCP tools
 - <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" height="18" style="vertical-align:middle"/> &nbsp;Author of **Mr. Memecredible** — Published VS Code Extension with **900+ active installs** & 5-star rating
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="18" style="vertical-align:middle"/> &nbsp;Open-source author: [Genesis Video Pipeline](https://github.com/JeetInTech/Youtube-shorts-Automation) — 138 autonomous Shorts published via YouTube API
@@ -152,7 +152,7 @@
 | Project | Description | Tech Stack | Status |
 |:---|:---|:---|:---:|
 | **[Sebastian](https://github.com/JeetInTech)** | **Autonomous AI Operating System & Digital Butler**<br/>Full-duplex voice OS via Gemini Live (~400ms turnaround) with barge-in. 92 registered tools across Green/Yellow permission gates via npx child-process MCP servers (GitHub, Playwright, Filesystem). Sub-10ms semantic memory with pgvector & Knowledge Graph. | `Python` `Gemini Live` `pgvector` `Kokoro TTS` `MCP SDK` `FastAPI` | 🔒 Private |
-| **[Neurovia AI](https://neuroviai.dev)** | **Distributed Core Backend & Microservices**<br/>6 decoupled FastAPI microservices powering commercial SaaS at **neuroviai.dev** (1.2K+ monthly visitors). 4-tier circuit-breaking LLM gateway (Gemini Pro → Groq → HuggingFace → Ollama) with 99.7% uptime & Razorpay transactional billing. | `Next.js 14` `FastAPI` `PostgreSQL` `Supabase` `Celery` `Redis` `Docker` | 🟢 Production |
+| **[Neuroviai](https://neuroviai.dev)** | **Distributed Core Backend & Microservices**<br/>6 decoupled FastAPI microservices powering commercial SaaS at **neuroviai.dev** (1.2K+ monthly visitors). 4-tier circuit-breaking LLM gateway (Gemini Pro → Groq → HuggingFace → Ollama) with 99.7% uptime & Razorpay transactional billing. | `Next.js 14` `FastAPI` `PostgreSQL` `Supabase` `Celery` `Redis` `Docker` | 🟢 Production |
 | **[Genesis: Job Application Agent](https://github.com/JeetInTech)** | **Autonomous Multi-Board Job Application Agent**<br/>Recruitment agent executing end-to-end applications across 5 job portals via Playwright and CDP. Parses listings with Groq Llama-3, dynamically compiles tailored LaTeX resumes in 1.8s, and automates multi-step questionnaires with SQLite state tracking. | `Python` `Playwright` `Groq LLM` `SQLite` `BeautifulSoup4` `pdflatex` | 🔒 Private |
 | **[AI Data Analyst Engine](https://github.com/JeetInTech/Ai-data-analyst)** | **Automated Machine Learning & Analytics Engine**<br/>Out-of-core tabular AutoML ingesting datasets >5GB RAM via Dask & PyArrow. Bayesian hyperparameter tuning across 50+ trials with Optuna, MLflow tracking, and LIME explainability. | `Python` `Dask` `PyArrow` `Pandas` `Scikit-Learn` `Optuna` `MLflow` | 🟡 GitHub |
 | **[Virtual Therapist](https://github.com/JeetInTech/Agentic-AI-for-personalized-mental-health-therapy-recommendations-via-multi-modal-sentiment-analysis)** | **LangGraph Autonomous Multi-Modal Agent**<br/>Stateful LangGraph ReAct loop with 24 deterministic tools. Combines real-time facial micro-expression recognition (FER/OpenCV) and voice prosody analysis (Librosa) with <50ms crisis safety guardrails. | `LangGraph` `LangChain` `ChromaDB` `OpenCV` `Librosa` `Groq` `FastAPI` | 🟡 GitHub |
@@ -317,14 +317,14 @@ flagship_systems:
   <a href="https://x.com/SangramJee97448" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter" />
   </a>
-  <a href="https://www.instagram.com/officiallyjeet/" target="_blank">
+  <a href="https://www.instagram.com/sangramjeeet" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram" />
   </a>
   <a href="https://sangramjeet.me" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Portfolio&logo=google-chrome&label=&color=FF5722&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio" />
   </a>
   <a href="https://neuroviai.dev" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Neurovia+AI&logo=react&label=&color=00D9FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="neurovia" />
+    <img src="https://img.shields.io/static/v1?message=Neuroviai&logo=react&label=&color=00D9FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="neuroviai" />
   </a>
   <a href="https://www.amazon.com/dp/B0FBLC1RLT" target="_blank">
     <img src="https://img.shields.io/static/v1?message=My+Book&logo=amazon&label=&color=FF9900&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="amazon book" />
