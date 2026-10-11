@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Sangramjeet Ghosh's GitHub Stats, Rank: C+</title>
-        <desc id="descId">Total Stars Earned: 5, Total Commits  : 553, Total PRs: 5, Total Issues: 1, Contributed to (last year): 1</desc>
+        <desc id="descId">Total Stars Earned: 5, Total Commits  : 569, Total PRs: 5, Total Issues: 1, Contributed to (last year): 1</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -54,55 +54,27 @@
       stroke: #00ff41;
       fill: none;
       stroke-width: 6;
-      opacity: 0.25;
+      opacity: 0.2;
     }
     .rank-circle {
       stroke: #00ff41;
-      stroke-dasharray: 251.32;
-      stroke-dashoffset: 0;
+      stroke-dasharray: 250;
       fill: none;
       stroke-width: 6;
       stroke-linecap: round;
-      opacity: 0.95;
+      opacity: 0.8;
       transform-origin: -10px 8px;
       transform: rotate(-90deg);
-      filter: drop-shadow(0 0 6px #00ff41);
+      animation: rankAnimation 1s forwards ease-in-out;
     }
-    .rank-text {
-      font: 800 24px 'Segoe UI', Ubuntu, Sans-Serif;
-      fill: #00ff41;
-      filter: drop-shadow(0 0 8px #00ff41);
-    }
-    @keyframes rankCycle {
-      0%, 28% { opacity: 1; transform: scale(1); }
-      32%, 34% { opacity: 0; transform: scale(0.6); }
-      38%, 61% { opacity: 1; transform: scale(1); }
-      65%, 67% { opacity: 0; transform: scale(0.6); }
-      71%, 95% { opacity: 1; transform: scale(1); }
-      98%, 100% { opacity: 0; transform: scale(0.6); }
-    }
-    .rank-s-plus {
-      animation: rankCycleS 3s infinite;
-    }
-    .rank-ss-plus {
-      animation: rankCycleSS 3s infinite;
-    }
-    .rank-z-plus {
-      animation: rankCycleZ 3s infinite;
-    }
-    @keyframes rankCycleS {
-      0%, 30% { opacity: 1; }
-      33%, 100% { opacity: 0; }
-    }
-    @keyframes rankCycleSS {
-      0%, 33% { opacity: 0; }
-      36%, 63% { opacity: 1; }
-      66%, 100% { opacity: 0; }
-    }
-    @keyframes rankCycleZ {
-      0%, 66% { opacity: 0; }
-      69%, 96% { opacity: 1; }
-      99%, 100% { opacity: 0; }
+    
+    @keyframes rankAnimation {
+      from {
+        stroke-dashoffset: 251.32741228718345;
+      }
+      to {
+        stroke-dashoffset: 215.9706896384811;
+      }
     }
   
   
@@ -169,15 +141,11 @@
         <circle class="rank-circle-rim" cx="-10" cy="8" r="40" />
         <circle class="rank-circle" cx="-10" cy="8" r="40" />
         <g class="rank-text">
-          <text class="rank-s-plus" x="-5" y="3" alignment-baseline="central" dominant-baseline="central" text-anchor="middle" data-testid="level-rank-icon">
-            S+
-          </text>
-          <text class="rank-ss-plus" x="-5" y="3" alignment-baseline="central" dominant-baseline="central" text-anchor="middle">
-            SS+
-          </text>
-          <text class="rank-z-plus" x="-5" y="3" alignment-baseline="central" dominant-baseline="central" text-anchor="middle">
-            Z+
-          </text>
+          
+        <text x="-5" y="3" alignment-baseline="central" dominant-baseline="central" text-anchor="middle" data-testid="level-rank-icon">
+          C+
+        </text>
+      
         </g>
       </g>
     <svg x="0" y="0">
@@ -209,7 +177,7 @@
         x="219.01"
         y="12.5"
         data-testid="commits"
-      >553</text>
+      >569</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
