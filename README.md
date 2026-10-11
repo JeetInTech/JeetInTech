@@ -169,21 +169,7 @@ Genesis operates as an out-of-band supervisor by listening directly to OS-level 
 
 <br/>
 
-<div align="center">
 
-### 🖥️ Genesis Mission Control & Visual Pipeline UI
-
-| 🌌 Operations Hub & Live Fleet | 🕸️ ComfyUI-Style Visual Workflow DAG |
-|:---:|:---:|
-| [![Operations Hub](assets/genesis/hub.png)](assets/genesis/hub.png)<br/><sub>**Central Operations Hub:** Real-time fleet health %, attention alerts, load meters, and live event feed.</sub> | [![Workflow Nodes](assets/genesis/workflow-nodes.png)](assets/genesis/workflow-nodes.png)<br/><sub>**Visual Flow DAG:** Interactive node pipeline with scrapers, LLM cascades, and actuators.</sub> |
-| **🔗 Dynamic Directed Topology** | **⏱️ Distributed Entity Tracing** |
-| [![Topology](assets/genesis/topology.png)](assets/genesis/topology.png)<br/><sub>**Dynamic Topology:** Observed edges computed from multi-agent data handoffs & latency.</sub> | [![Trace Mode](assets/genesis/trace.png)](assets/genesis/trace.png)<br/><sub>**Entity Tracing:** End-to-end audit trail (Applied → Acknowledged → Assessment → Interview).</sub> |
-| **🎛️ Agent Execution Cockpit** | **🎙️ Conversational Avatar (Face Mode)** |
-| [![Cockpit](assets/genesis/cockpit.png)](assets/genesis/cockpit.png)<br/><sub>**Agent Cockpit:** Execution drawer with milestone stage tracker & single-click LLM incident fixes.</sub> | [![Face Mode](assets/genesis/face.png)](assets/genesis/face.png)<br/><sub>**Voice Avatar:** Real-time voice interaction with Kokoro audio envelope driven lip-sync.</sub> |
-
-</div>
-
-<br/>
 
 ### 🔄 4 Unified Multi-Agent Workflows
 
