@@ -179,7 +179,7 @@
 
 | Product | Description | Tech Stack | Status |
 |:---|:---|:---|:---:|
-| <a href="https://marketplace.visualstudio.com" target="_blank"><img src="assets/badges/mr-memecredible.svg" height="24" alt="Mr. Memecredible"/></a> | **Published VS Code Extension — 900+ Active Installs**<br/>Developer productivity extension with 5-star rating on VS Code Marketplace. Subscribes to language server diagnostics with <16ms budget, rendering 9-stage uncanny meme meter via Webview IPC. | `TypeScript` `VS Code API` `Node.js` `Webview IPC` | 🟢 900+ Installs |
+| <a href="https://marketplace.visualstudio.com/items?itemName=SangramjeetGhosh.mr-memecredible" target="_blank"><img src="assets/badges/mr-memecredible.svg" height="24" alt="Mr. Memecredible"/></a> | **Published VS Code Extension — 900+ Active Installs**<br/>Developer productivity extension with 5-star rating on VS Code Marketplace. Subscribes to language server diagnostics with <16ms budget, rendering 9-stage uncanny meme meter via Webview IPC. | `TypeScript` `VS Code API` `Node.js` `Webview IPC` | 🟢 900+ Installs |
 | <a href="https://github.com/JeetInTech/Local-Cortex-your-local-chatgpt-with-built-in-editor" target="_blank"><img src="assets/badges/local-cortex.svg" height="24" alt="Local Cortex"/></a> | **Native Desktop AI IDE & Workspace**<br/>Native Windows desktop code editor using Tauri v2 and Rust with native file traversal and local vector RAG indexing via Ollama. Autonomous multi-file codebase editing loop (`agent.rs`). | `Rust` `Tauri v2` `React` `TypeScript` `Monaco` `Ollama` | 🟢 GitHub |
 | <a href="https://neuroviai.dev" target="_blank"><img src="assets/badges/molars-nutrition.svg" height="24" alt="Molars Nutrition"/></a> | **Brand Platform & Molecular Visualizer**<br/>Commercial brand platform built with React 19 and Next.js maintaining 95+ Lighthouse score. Interactive molecular canvas (`molecule.tsx`) with cursor repulsion and serverless Netlify Functions. | `React 19` `Next.js` `Tailwind` `Netlify Functions` | 🟢 Live |
 | <a href="https://github.com/JeetInTech/Offline-Image-Generation-v1.0" target="_blank"><img src="assets/badges/offline-image-gen.svg" height="24" alt="Offline Image Workstation"/></a> | **Low-VRAM Diffusion Workstation**<br/>100% local generative image workstation with CPU/GPU offloading to generate high-resolution art on 4GB consumer GPUs using headless ComfyUI workflow queues. | `Python` `PySide6` `ComfyUI` `Stable Diffusion` `Torch` | 🟡 GitHub |
@@ -196,7 +196,7 @@
 
 <div align="center">
 
-### <img src="https://img.shields.io/badge/⭐-Featured%20Releases-FFD700?style=flat-square&labelColor=1a1a2e" height="22"/> Featured Open-Source Releases
+### <img src="https://img.shields.io/badge/%E2%AD%90-Featured%20Releases-FFD700?style=flat-square&labelColor=1a1a2e" height="22"/> Featured Open-Source Releases
 
 [![Offline Image Generation](https://github-readme-stats.vercel.app/api/pin/?username=JeetInTech&repo=Offline-Image-Generation-v1.0&theme=chartreuse-dark&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=00ff41)](https://github.com/JeetInTech/Offline-Image-Generation-v1.0)
 [![Local Cortex](https://github-readme-stats.vercel.app/api/pin/?username=JeetInTech&repo=Local-Cortex-your-local-chatgpt-with-built-in-editor&theme=chartreuse-dark&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=00ff41)](https://github.com/JeetInTech/Local-Cortex-your-local-chatgpt-with-built-in-editor)
