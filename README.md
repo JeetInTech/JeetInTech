@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=160&section=header&text=Sangramjeet%20Ghosh&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=38&desc=AI%20Engineer%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20Founder&descAlignY=60&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050907,50:072E1B,100:00FF41&height=160&section=header&text=Sangramjeet%20Ghosh&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=38&desc=AI%20Engineer%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20Founder&descAlignY=60&descSize=18" width="100%"/>
 </div>
 
 <div align="center">
@@ -145,17 +145,95 @@
 
 ---
 
+<h2 align="left"><img src="https://img.shields.io/badge/GENESIS-Central%20Brain-00FF41?style=flat-square&logo=cpu&logoColor=black&labelColor=0d1117" height="26"/> &nbsp;🧠 Genesis — Autonomous Central Brain & Multi-Agent Operations Hub</h2>
+
+<div align="left">
+
+![Architecture](https://img.shields.io/badge/Architecture-Non--Intrusive%20Probes%20%7C%20Zero--SDK-00FF41?style=flat-square&labelColor=0d1117)
+![GUI](https://img.shields.io/badge/GUI-Python%203%20%7C%20PySide6%20%7C%20Qt%206%20QML-00D9FF?style=flat-square&labelColor=0d1117)
+![Fleet Scale](https://img.shields.io/badge/Autonomous%20Fleet-10%20Production%20Agents-FF6B35?style=flat-square&labelColor=0d1117)
+![Topology](https://img.shields.io/badge/Topology-Evidence--Based%20Dynamic%20Graph-3ECF8E?style=flat-square&labelColor=0d1117)
+![Tracing](https://img.shields.io/badge/Distributed%20Tracing-Multi--Store%20Entity%20Correlation-6C63FF?style=flat-square&labelColor=0d1117)
+
+</div>
+
+<br/>
+
+**GENESIS** is a full-screen desktop operations cockpit and autonomous central brain monitoring, correlating, and supervising the multi-agent fleet on my workstation. Built with **Python 3 + PySide6 (Qt 6 / QML)**, it tracks **10 autonomous desktop and cloud agents** with **zero code intrusion** or SDK overhead.
+
+Genesis operates as an out-of-band supervisor by listening directly to OS-level and disk artifacts:
+- ⏱️ **Incremental Log Tails (1.5s clock)**: Regex parsing with severity decay across four log formats.
+- 🗄️ **Read-Only SQLite Aggregations (15s clock)**: Zero-lock metric queries and actionable alert extractors.
+- ⚡ **Kernel Process Telemetry (6s clock)**: Non-blocking `psutil` process tree scanning and CPU% load derivation.
+- 🌐 **Evidence-Based Dynamic Topology**: Connections between agents are never hand-drawn guesses—edges are earned only when the **same normalized entity** appears across disparate SQLite databases and APIs (e.g. `Job App` ➔ `JobPulse` via shared company records).
+
+<br/>
+
+<div align="center">
+
+### 🖥️ Genesis Mission Control & Visual Pipeline UI
+
+| 🌌 Operations Hub & Live Fleet | 🕸️ ComfyUI-Style Visual Workflow DAG |
+|:---:|:---:|
+| [![Operations Hub](assets/genesis/hub.png)](assets/genesis/hub.png)<br/><sub>**Central Operations Hub:** Real-time fleet health %, attention alerts, load meters, and live event feed.</sub> | [![Workflow Nodes](assets/genesis/workflow-nodes.png)](assets/genesis/workflow-nodes.png)<br/><sub>**Visual Flow DAG:** Interactive node pipeline with scrapers, LLM cascades, and actuators.</sub> |
+| **🔗 Dynamic Directed Topology** | **⏱️ Distributed Entity Tracing** |
+| [![Topology](assets/genesis/topology.png)](assets/genesis/topology.png)<br/><sub>**Dynamic Topology:** Observed edges computed from multi-agent data handoffs & latency.</sub> | [![Trace Mode](assets/genesis/trace.png)](assets/genesis/trace.png)<br/><sub>**Entity Tracing:** End-to-end audit trail (Applied → Acknowledged → Assessment → Interview).</sub> |
+| **🎛️ Agent Execution Cockpit** | **🎙️ Conversational Avatar (Face Mode)** |
+| [![Cockpit](assets/genesis/cockpit.png)](assets/genesis/cockpit.png)<br/><sub>**Agent Cockpit:** Execution drawer with milestone stage tracker & single-click LLM incident fixes.</sub> | [![Face Mode](assets/genesis/face.png)](assets/genesis/face.png)<br/><sub>**Voice Avatar:** Real-time voice interaction with Kokoro audio envelope driven lip-sync.</sub> |
+
+</div>
+
+<br/>
+
+### 🔄 4 Unified Multi-Agent Workflows
+
+<div align="center">
+
+| Workflow Pipeline | Orchestrated Agents | Operational Flow & Real-World Execution |
+|:---|:---|:---|
+| **🎯 Job Discovery & Application Pipeline** | <img src="assets/badges/genesis-jobapp.svg" height="20"/><br/><img src="assets/badges/genesis-jobpulse.svg" height="20"/> | **Autonomous multi-portal discovery to interview tracking.** Scrapes 5 platforms (LinkedIn, Wellfound, Indeed, Internshala, Naukri) via Playwright CDP, parses listings with Groq Llama-3, dynamically compiles custom LaTeX resumes in 1.8s, submits multi-step applications, and hands off to JobPulse for Gmail thread monitoring and interview extraction. |
+| **🤝 Stealth Outreach & Networking Pipeline** | <img src="assets/badges/cold-mails.svg" height="20"/><br/><img src="assets/badges/linkedin-outreach.svg" height="20"/><br/><img src="assets/badges/whatsapp-agent.svg" height="20"/><br/><img src="assets/badges/genesis-jobpulse.svg" height="20"/> | **High-intent multi-channel outreach engine.** Scrapes hiring leads from Hacker News & tech communities, identifies decision-makers via LinkedIn CDP, drafts hyper-personalized pitches using Groq / gpt-oss-120b, respects humanized rate pacing, and engages in style-matched WhatsApp responses with local Ollama Llama-3.1. |
+| **🎬 Autonomous Content Creation & Publishing** | <img src="assets/badges/offline-image-gen.svg" height="20"/><br/><img src="assets/badges/linkedin-publisher.svg" height="20"/><br/><img src="assets/badges/genesis-video.svg" height="20"/> | **Zero-touch media generation and publishing swarm.** Identifies viral tech trends, generates script hooks via Ollama, renders multi-track voice with Edge-TTS, composites video via FFmpeg, and uploads to YouTube Data API v3 (138+ live Shorts). Concurrently generates Gemini 2.5 Flash technical posts with ComfyUI visual banners. |
+| **🛡️ Workstation Supervision & Cloud Protection** | <img src="assets/badges/sebastian.svg" height="20"/><br/><img src="assets/badges/streak-guardian.svg" height="20"/> | **Fleet health monitoring and 24/7 cloud keepalive.** Sebastian provides full-duplex voice control and executes 92 MCP tools for system repair. Daily Coding Streak Guardian runs 24/7 in cloud via GitHub Actions to maintain telemetry checkpoints and protect contribution graphs. |
+
+</div>
+
+<br/>
+
+### 🤖 Complete Fleet Directory — The 10 Autonomous Agents
+
+<div align="center">
+
+| Agent Code | Agent & Engine | Tools & Capabilities | Data Traces & Evidence | Role & Status |
+|:---:|:---|:---|:---|:---:|
+| `JOB` | <img src="assets/badges/genesis-jobapp.svg" height="22"/><br/>`Groq Llama-3` `Playwright CDP` | `job_discoverer` `web_discoverer` `form_filler` `resume_tailor` `gmail_client` | `logs/*.log`<br/>`applications.db` | 🔒 Private<br/>**Application Swarm** |
+| `PLS` | <img src="assets/badges/genesis-jobpulse.svg" height="22"/><br/>`FastAPI` `Groq LLM` `OAuth 2.0` | `MultiAccountIMAP` `MIMEParser` `ThreadLinker` `RegexEngine` `LLMClassifier` | `job_tracker.db`<br/>RFC 822 Threads | 🔒 Private<br/>**Email Intelligence** |
+| `CLD` | <img src="assets/badges/cold-mails.svg" height="22"/><br/>`Groq` `gpt-oss-120b` | `HNScraper` `ResumeReader` `LLMComposer` `DraftValidator` `GmailDrafts` | `coldmail.log`<br/>`sent.json` | 🔒 Private<br/>**Cold Pitch Drafter** |
+| `DMS` | <img src="assets/badges/linkedin-outreach.svg" height="22"/><br/>`Playwright` `Chrome CDP (9223)` | `ProspectSearch` `ProfileDeepScrape` `PathDetection` `HumanizerPacer` | `run.log`<br/>`outreach.db` | 🔒 Private<br/>**Targeted Networking** |
+| `LNK` | <img src="assets/badges/linkedin-publisher.svg" height="22"/><br/>`Gemini 2.5 Flash` `ComfyUI` | `TopicPromptInput` `ScheduleGuard` `LLMComposer` `ComfyUIBanner` | `automation.log`<br/>`linkedin.db` | 🟢 Production<br/>**Post Automation** |
+| `IMG` | <a href="https://github.com/JeetInTech/Offline-Image-Generation-v1.0" target="_blank"><img src="assets/badges/offline-image-gen.svg" height="22"/></a><br/>`Stable Diffusion` `PySide6` | `KSampler` `VAEDecodeTiled` `CLIPTextEncode` `LowVRAMOffload` | `output/*.png`<br/>ComfyUI Queues | 🟡 GitHub<br/>**Visual Diffusion** |
+| `YTA` | <a href="https://github.com/JeetInTech/Youtube-shorts-Automation" target="_blank"><img src="assets/badges/genesis-video.svg" height="22"/></a><br/>`Ollama` `Edge-TTS` `FFmpeg` | `TrendsScraper` `VoiceSynthesizer` `VideoAssembly` `YouTubeAPIv3` | `automation.log`<br/>138+ Live Shorts | 🟢 Open Source<br/>**Video Factory** |
+| `STK` | <a href="https://github.com/JeetInTech/Daily-coding-streak-tracker" target="_blank"><img src="assets/badges/streak-guardian.svg" height="22"/></a><br/>`GitHub Actions` `GraphQL` | `GraphQLClient` `GitAutomator` `TelemetryGenerator` `AutoCommit` | `guardian.log`<br/>`state.json` | 🟢 24/7 Cloud<br/>**Streak Protection** |
+| `SEB` | <img src="assets/badges/sebastian.svg" height="22"/><br/>`Gemini Live` `92 MCP Tools` | `BidirectionalAudio` `pgvector` `KnowledgeGraph` `ChildProcessMCP` | `sebastian.log`<br/>sub-10ms memory | 🔒 Private<br/>**Digital Butler** |
+| `WHA` | <img src="assets/badges/whatsapp-agent.svg" height="22"/><br/>`Selenium` `Ollama Llama-3.1:8b` | `read_history` `profile_style` `compose_reply` `rate_pacer` | `whatsapp_outreach.log`<br/>Browser Session | 🔒 Private<br/>**Chatbot Assistant** |
+
+</div>
+
+<br/>
+
+---
+
 <h2 align="left">🤖 &nbsp;AI & Agentic Systems</h2>
 
 <div align="center">
 
 | Project | Description | Tech Stack | Status |
 |:---|:---|:---|:---:|
-| **[Sebastian](https://github.com/JeetInTech)** | **Autonomous AI Operating System & Digital Butler**<br/>Full-duplex voice OS via Gemini Live (~400ms turnaround) with barge-in. 92 registered tools across Green/Yellow permission gates via npx child-process MCP servers (GitHub, Playwright, Filesystem). Sub-10ms semantic memory with pgvector & Knowledge Graph. | `Python` `Gemini Live` `pgvector` `Kokoro TTS` `MCP SDK` `FastAPI` | 🔒 Private |
-| **[Neuroviai](https://neuroviai.dev)** | **Distributed Core Backend & Microservices**<br/>6 decoupled FastAPI microservices powering commercial SaaS at **neuroviai.dev** (1.2K+ monthly visitors). 4-tier circuit-breaking LLM gateway (Gemini Pro → Groq → HuggingFace → Ollama) with 99.7% uptime & Razorpay transactional billing. | `Next.js 14` `FastAPI` `PostgreSQL` `Supabase` `Celery` `Redis` `Docker` | 🟢 Production |
-| **[Genesis: Job Application Agent](https://github.com/JeetInTech)** | **Autonomous Multi-Board Job Application Agent**<br/>Recruitment agent executing end-to-end applications across 5 job portals via Playwright and CDP. Parses listings with Groq Llama-3, dynamically compiles tailored LaTeX resumes in 1.8s, and automates multi-step questionnaires with SQLite state tracking. | `Python` `Playwright` `Groq LLM` `SQLite` `BeautifulSoup4` `pdflatex` | 🔒 Private |
-| **[AI Data Analyst Engine](https://github.com/JeetInTech/Ai-data-analyst)** | **Automated Machine Learning & Analytics Engine**<br/>Out-of-core tabular AutoML ingesting datasets >5GB RAM via Dask & PyArrow. Bayesian hyperparameter tuning across 50+ trials with Optuna, MLflow tracking, and LIME explainability. | `Python` `Dask` `PyArrow` `Pandas` `Scikit-Learn` `Optuna` `MLflow` | 🟡 GitHub |
-| **[Virtual Therapist](https://github.com/JeetInTech/Agentic-AI-for-personalized-mental-health-therapy-recommendations-via-multi-modal-sentiment-analysis)** | **LangGraph Autonomous Multi-Modal Agent**<br/>Stateful LangGraph ReAct loop with 24 deterministic tools. Combines real-time facial micro-expression recognition (FER/OpenCV) and voice prosody analysis (Librosa) with <50ms crisis safety guardrails. | `LangGraph` `LangChain` `ChromaDB` `OpenCV` `Librosa` `Groq` `FastAPI` | 🟡 GitHub |
+| <img src="assets/badges/sebastian.svg" height="24" alt="Sebastian"/> | **Autonomous AI Operating System & Digital Butler**<br/>Full-duplex voice OS via Gemini Live (~400ms turnaround) with barge-in. 92 registered tools across Green/Yellow permission gates via npx child-process MCP servers (GitHub, Playwright, Filesystem). Sub-10ms semantic memory with pgvector & Knowledge Graph. | `Python` `Gemini Live` `pgvector` `Kokoro TTS` `MCP SDK` `FastAPI` | 🔒 Private |
+| <a href="https://neuroviai.dev" target="_blank"><img src="assets/badges/neuroviai.svg" height="24" alt="Neuroviai"/></a> | **Distributed Core Backend & Microservices**<br/>6 decoupled FastAPI microservices powering commercial SaaS at **neuroviai.dev** (1.2K+ monthly visitors). 4-tier circuit-breaking LLM gateway (Gemini Pro → Groq → HuggingFace → Ollama) with 99.7% uptime & Razorpay transactional billing. | `Next.js 14` `FastAPI` `PostgreSQL` `Supabase` `Celery` `Redis` `Docker` | 🟢 Production |
+| <img src="assets/badges/genesis-jobapp.svg" height="24" alt="Genesis: Job Application Agent"/> | **Autonomous Multi-Board Job Application Agent**<br/>Recruitment agent executing end-to-end applications across 5 job portals via Playwright and CDP. Parses listings with Groq Llama-3, dynamically compiles tailored LaTeX resumes in 1.8s, and automates multi-step questionnaires with SQLite state tracking. | `Python` `Playwright` `Groq LLM` `SQLite` `BeautifulSoup4` `pdflatex` | 🔒 Private |
+| <a href="https://github.com/JeetInTech/Ai-data-analyst" target="_blank"><img src="assets/badges/ai-data-analyst.svg" height="24" alt="AI Data Analyst Engine"/></a> | **Automated Machine Learning & Analytics Engine**<br/>Out-of-core tabular AutoML ingesting datasets >5GB RAM via Dask & PyArrow. Bayesian hyperparameter tuning across 50+ trials with Optuna, MLflow tracking, and LIME explainability. | `Python` `Dask` `PyArrow` `Pandas` `Scikit-Learn` `Optuna` `MLflow` | 🟡 GitHub |
+| <a href="https://github.com/JeetInTech/Agentic-AI-for-personalized-mental-health-therapy-recommendations-via-multi-modal-sentiment-analysis" target="_blank"><img src="assets/badges/virtual-therapist.svg" height="24" alt="Virtual Therapist"/></a> | **LangGraph Autonomous Multi-Modal Agent**<br/>Stateful LangGraph ReAct loop with 24 deterministic tools. Combines real-time facial micro-expression recognition (FER/OpenCV) and voice prosody analysis (Librosa) with <50ms crisis safety guardrails. | `LangGraph` `LangChain` `ChromaDB` `OpenCV` `Librosa` `Groq` `FastAPI` | 🟡 GitHub |
 
 </div>
 
@@ -169,9 +247,9 @@
 
 | Pipeline | Description | Tech Stack | Status |
 |:---|:---|:---|:---:|
-| **[Genesis: Video Pipeline](https://github.com/JeetInTech/Youtube-shorts-Automation)** | **Autonomous YouTube Shorts Pipeline**<br/>Autonomous agent operating continuously for 100+ days, publishing 138 Shorts via YouTube Data API v3 with automated script generation, Edge-TTS, and FFmpeg video assembly. | `Python` `Ollama` `Groq` `Edge-TTS` `FFmpeg` `YouTube API v3` | 🟢 Open Source |
-| **[Genesis: JobPulse](https://github.com/JeetInTech)** | **Recruitment Email Intelligence & Service**<br/>Asynchronous ingestion service connecting to Gmail API via OAuth 2.0, reconstructing email threads across RFC 822 Message-IDs with Groq classification for interview links and status. | `Python` `FastAPI` `Gmail API` `OAuth 2.0` `Groq LLM` `SQLite` | 🔒 Private |
-| **[Daily Coding Streak Guardian](https://github.com/JeetInTech/Daily-coding-streak-tracker)** | **24/7 Cloud Contribution Protection**<br/>Autonomous GraphQL contribution monitor & telemetry checkpoint generator with auto-push, runs 24/7 in cloud via GitHub Actions even when offline. | `Python` `GitHub Actions` `GraphQL API` `Git` | 🟢 24/7 Cloud |
+| <a href="https://github.com/JeetInTech/Youtube-shorts-Automation" target="_blank"><img src="assets/badges/genesis-video.svg" height="24" alt="Genesis: Video Pipeline"/></a> | **Autonomous YouTube Shorts Pipeline**<br/>Autonomous agent operating continuously for 100+ days, publishing 138 Shorts via YouTube Data API v3 with automated script generation, Edge-TTS, and FFmpeg video assembly. | `Python` `Ollama` `Groq` `Edge-TTS` `FFmpeg` `YouTube API v3` | 🟢 Open Source |
+| <img src="assets/badges/genesis-jobpulse.svg" height="24" alt="Genesis: JobPulse"/> | **Recruitment Email Intelligence & Service**<br/>Asynchronous ingestion service connecting to Gmail API via OAuth 2.0, reconstructing email threads across RFC 822 Message-IDs with Groq classification for interview links and status. | `Python` `FastAPI` `Gmail API` `OAuth 2.0` `Groq LLM` `SQLite` | 🔒 Private |
+| <a href="https://github.com/JeetInTech/Daily-coding-streak-tracker" target="_blank"><img src="assets/badges/streak-guardian.svg" height="24" alt="Daily Coding Streak Guardian"/></a> | **24/7 Cloud Contribution Protection**<br/>Autonomous GraphQL contribution monitor & telemetry checkpoint generator with auto-push, runs 24/7 in cloud via GitHub Actions even when offline. | `Python` `GitHub Actions` `GraphQL API` `Git` | 🟢 24/7 Cloud |
 
 </div>
 
@@ -185,12 +263,12 @@
 
 | Product | Description | Tech Stack | Status |
 |:---|:---|:---|:---:|
-| **[Mr. Memecredible](https://marketplace.visualstudio.com)** | **Published VS Code Extension — 900+ Active Installs**<br/>Developer productivity extension with 5-star rating on VS Code Marketplace. Subscribes to language server diagnostics with <16ms budget, rendering 9-stage uncanny meme meter via Webview IPC. | `TypeScript` `VS Code API` `Node.js` `Webview IPC` | 🟢 900+ Installs |
-| **[Local Cortex](https://github.com/JeetInTech/Local-Cortex-your-local-chatgpt-with-built-in-editor)** | **Native Desktop AI IDE & Workspace**<br/>Native Windows desktop code editor using Tauri v2 and Rust with native file traversal and local vector RAG indexing via Ollama. Autonomous multi-file codebase editing loop (`agent.rs`). | `Rust` `Tauri v2` `React` `TypeScript` `Monaco` `Ollama` | 🟢 GitHub |
-| **[Molars Nutrition](https://neuroviai.dev)** | **Brand Platform & Molecular Visualizer**<br/>Commercial brand platform built with React 19 and Next.js maintaining 95+ Lighthouse score. Interactive molecular canvas (`molecule.tsx`) with cursor repulsion and serverless Netlify Functions. | `React 19` `Next.js` `Tailwind` `Netlify Functions` | 🟢 Live |
-| **[Offline Image Workstation](https://github.com/JeetInTech/Offline-Image-Generation-v1.0)** | **Low-VRAM Diffusion Workstation**<br/>100% local generative image workstation with CPU/GPU offloading to generate high-resolution art on 4GB consumer GPUs using headless ComfyUI workflow queues. | `Python` `PySide6` `ComfyUI` `Stable Diffusion` `Torch` | 🟡 GitHub |
-| **[Neurovia Careers](https://neuroviacareer.netlify.app)** | **AI-Powered ATS Resume Builder**<br/>Weighted scoring engine, 90%+ ATS compatibility across 15+ job categories, 4 custom LaTeX export templates, Groq AI bullet & summary generation. | `React 18` `TypeScript` `FastAPI` `Supabase` `Groq` `Vite` | 🟢 Live |
-| **[Crafting Brain](https://craftingbrain.com)** | **Content-Tech NLP Platform**<br/>Production NLP pipelines for sentiment scoring, topic extraction & content optimization. AWS EC2/S3/Nginx infrastructure, GitHub Actions CI/CD. | `FastAPI` `Python` `AWS` `Docker` `Nginx` | 🟢 Live |
+| <a href="https://marketplace.visualstudio.com" target="_blank"><img src="assets/badges/mr-memecredible.svg" height="24" alt="Mr. Memecredible"/></a> | **Published VS Code Extension — 900+ Active Installs**<br/>Developer productivity extension with 5-star rating on VS Code Marketplace. Subscribes to language server diagnostics with <16ms budget, rendering 9-stage uncanny meme meter via Webview IPC. | `TypeScript` `VS Code API` `Node.js` `Webview IPC` | 🟢 900+ Installs |
+| <a href="https://github.com/JeetInTech/Local-Cortex-your-local-chatgpt-with-built-in-editor" target="_blank"><img src="assets/badges/local-cortex.svg" height="24" alt="Local Cortex"/></a> | **Native Desktop AI IDE & Workspace**<br/>Native Windows desktop code editor using Tauri v2 and Rust with native file traversal and local vector RAG indexing via Ollama. Autonomous multi-file codebase editing loop (`agent.rs`). | `Rust` `Tauri v2` `React` `TypeScript` `Monaco` `Ollama` | 🟢 GitHub |
+| <a href="https://neuroviai.dev" target="_blank"><img src="assets/badges/molars-nutrition.svg" height="24" alt="Molars Nutrition"/></a> | **Brand Platform & Molecular Visualizer**<br/>Commercial brand platform built with React 19 and Next.js maintaining 95+ Lighthouse score. Interactive molecular canvas (`molecule.tsx`) with cursor repulsion and serverless Netlify Functions. | `React 19` `Next.js` `Tailwind` `Netlify Functions` | 🟢 Live |
+| <a href="https://github.com/JeetInTech/Offline-Image-Generation-v1.0" target="_blank"><img src="assets/badges/offline-image-gen.svg" height="24" alt="Offline Image Workstation"/></a> | **Low-VRAM Diffusion Workstation**<br/>100% local generative image workstation with CPU/GPU offloading to generate high-resolution art on 4GB consumer GPUs using headless ComfyUI workflow queues. | `Python` `PySide6` `ComfyUI` `Stable Diffusion` `Torch` | 🟡 GitHub |
+| <a href="https://neuroviacareer.netlify.app" target="_blank"><img src="assets/badges/neurovia-careers.svg" height="24" alt="Neurovia Careers"/></a> | **AI-Powered ATS Resume Builder**<br/>Weighted scoring engine, 90%+ ATS compatibility across 15+ job categories, 4 custom LaTeX export templates, Groq AI bullet & summary generation. | `React 18` `TypeScript` `FastAPI` `Supabase` `Groq` `Vite` | 🟢 Live |
+| <a href="https://craftingbrain.com" target="_blank"><img src="assets/badges/crafting-brain.svg" height="24" alt="Crafting Brain"/></a> | **Content-Tech NLP Platform**<br/>Production NLP pipelines for sentiment scoring, topic extraction & content optimization. AWS EC2/S3/Nginx infrastructure, GitHub Actions CI/CD. | `FastAPI` `Python` `AWS` `Docker` `Nginx` | 🟢 Live |
 
 </div>
 
@@ -353,7 +431,7 @@ flagship_systems:
 ###
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontColor=fff&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050907,50:072E1B,100:00FF41&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontColor=fff&animation=twinkling" width="100%"/>
 </div>
 
 ###
