@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2800&pause=2000&color=00FF41&center=true&vCenter=true&width=700&lines=Building+Production+AI+Systems+%F0%9F%A4%96;Autonomous+Agents+%26+Multi-Agent+Pipelines;Full-Stack+SaaS+from+0+to+Launch+%F0%9F%9A%80;Founder+of+Neurovia+AI+%F0%9F%8C%90;Open+Source+Contributor+%F0%9F%93%A6" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2800&pause=2000&color=00FF41&center=true&vCenter=true&width=700&lines=Building+Production+AI+Systems+%F0%9F%A4%96;Autonomous+Agents+%26+Multi-Agent+Pipelines;Full-Stack+SaaS+from+0+to+Launch+%F0%9F%9A%80;Founder+of+Neuroviai+%F0%9F%8C%90;Open+Source+Contributor+%F0%9F%93%A6" alt="Typing SVG" />
 </div>
 
 ###
@@ -21,7 +21,7 @@
 <br/>
 
 ![AI/ML](https://img.shields.io/badge/AI%2FML%20Engineer-LangGraph%20%7C%20RAG%20%7C%20Multi--Agent-00FF41?style=flat-square&logo=openai&logoColor=white&labelColor=0d1117)
-![Founder](https://img.shields.io/badge/Founder-Neurovia%20AI-00D9FF?style=flat-square&logo=react&logoColor=white&labelColor=0d1117)
+![Founder](https://img.shields.io/badge/Founder-Neuroviai%20AI-00D9FF?style=flat-square&logo=react&logoColor=white&labelColor=0d1117)
 ![Full-Stack](https://img.shields.io/badge/Full--Stack-React%20%7C%20FastAPI%20%7C%20Next.js-6C63FF?style=flat-square&logo=fastapi&logoColor=white&labelColor=0d1117)
 ![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-FF6B6B?style=flat-square&logo=github&logoColor=white&labelColor=0d1117)
 
@@ -317,14 +317,14 @@ flagship_systems:
   <a href="https://x.com/SangramJee97448" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter" />
   </a>
-  <a href="https://www.instagram.com/officiallyjeet/" target="_blank">
+  <a href="https://www.instagram.com/sangramjeeet" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram" />
   </a>
   <a href="https://sangramjeet.me" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Portfolio&logo=google-chrome&label=&color=FF5722&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio" />
   </a>
   <a href="https://neuroviai.dev" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Neurovia+AI&logo=react&label=&color=00D9FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="neurovia" />
+    <img src="https://img.shields.io/static/v1?message=Neuroviai&logo=react&label=&color=00D9FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="neuroviai" />
   </a>
   <a href="https://www.amazon.com/dp/B0FBLC1RLT" target="_blank">
     <img src="https://img.shields.io/static/v1?message=My+Book&logo=amazon&label=&color=FF9900&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="amazon book" />
