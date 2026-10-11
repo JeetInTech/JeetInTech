@@ -1,15 +1,15 @@
 
       <svg
-        width="377.53125000000006"
+        width="467"
         height="195"
-        viewBox="0 0 377.53125000000006 195"
+        viewBox="0 0 467 195"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
         role="img"
         aria-labelledby="descId"
       >
         <title id="titleId">Sangramjeet Ghosh's GitHub Stats, Rank: C+</title>
-        <desc id="descId">Total Stars Earned: 5, Total Commits  : 552, Total PRs: 5, Total Issues: 1, Contributed to (last year): 1</desc>
+        <desc id="descId">Total Stars Earned: 5, Total Commits  : 553, Total PRs: 5, Total Issues: 1, Contributed to (last year): 1</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 216.3053761360508;
+        stroke-dashoffset: 216.28557933555595;
       }
     }
   
@@ -110,7 +110,7 @@
           rx="4.5"
           height="99%"
           stroke="#e4e2e2"
-          width="376.53125000000006"
+          width="466"
           fill="#0d1117"
           stroke-opacity="1"
         />
@@ -136,7 +136,18 @@
           transform="translate(0, 55)"
         >
           
-    
+    <g data-testid="rank-circle"
+          transform="translate(390.5, 47.5)">
+        <circle class="rank-circle-rim" cx="-10" cy="8" r="40" />
+        <circle class="rank-circle" cx="-10" cy="8" r="40" />
+        <g class="rank-text">
+          
+        <text x="-5" y="3" alignment-baseline="central" dominant-baseline="central" text-anchor="middle" data-testid="level-rank-icon">
+          C+
+        </text>
+      
+        </g>
+      </g>
     <svg x="0" y="0">
       <g transform="translate(0, 0)">
     <g class="stagger" style="animation-delay: 450ms" transform="translate(25, 0)">
@@ -166,7 +177,7 @@
         x="219.01"
         y="12.5"
         data-testid="commits"
-      >552</text>
+      >553</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
