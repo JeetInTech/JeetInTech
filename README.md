@@ -27,13 +27,13 @@
 
 <br/>
 
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="18" style="vertical-align:middle"/> &nbsp;**AI/ML Engineer** — LangGraph, RAG Systems, Multi-Agent Architectures, LLMs
-- <img src="https://img.shields.io/badge/-Founder-00D9FF?style=flat-square&logo=react&logoColor=white" height="18" style="vertical-align:middle"/> &nbsp;**Founder** of [Neurovia AI](https://neuroviai.com/) — live AI SaaS in production
-- <img src="https://img.shields.io/badge/-Autonomous%20AI-FF6B35?style=flat-square&logo=openai&logoColor=white" height="18" style="vertical-align:middle"/> &nbsp;Built **Sebastian** — autonomous 59-tool personal assistant with OS control & voice
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="18" style="vertical-align:middle"/> &nbsp;Open-source author: [YouTube Shorts Automation Pipeline](https://github.com/JeetInTech/Youtube-shorts-Automation)
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="18" style="vertical-align:middle"/> &nbsp;**AI/ML & Distributed Systems Engineer** — LangGraph, MCP SDK, Multi-Agent Swarms, RAG Pipelines
+- <img src="https://img.shields.io/badge/-Founder-00D9FF?style=flat-square&logo=react&logoColor=white" height="18" style="vertical-align:middle"/> &nbsp;**Creator & Architect** of [Neurovia AI](https://neuroviai.dev) — Multi-model LLM gateway (99.7% uptime) & SaaS with 1.2K+ monthly visitors
+- <img src="https://img.shields.io/badge/-Autonomous%20AI-FF6B35?style=flat-square&logo=openai&logoColor=white" height="18" style="vertical-align:middle"/> &nbsp;Built **Sebastian** — Autonomous AI OS with Gemini Live full-duplex voice (~400ms turnaround) & 92 MCP tools
+- <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" height="18" style="vertical-align:middle"/> &nbsp;Author of **Mr. Memecredible** — Published VS Code Extension with **900+ active installs** & 5-star rating
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="18" style="vertical-align:middle"/> &nbsp;Open-source author: [Genesis Video Pipeline](https://github.com/JeetInTech/Youtube-shorts-Automation) — 138 autonomous Shorts published via YouTube API
 - <img src="https://img.shields.io/badge/-Amazon%20KDP-FF9900?style=flat-square&logo=amazon&logoColor=white" height="18" style="vertical-align:middle"/> &nbsp;Self-published author — *"The Future of Touchless Technology"*
-- <img src="https://img.shields.io/badge/-B.Tech%20AI%2FML-4285F4?style=flat-square&logo=googlescholar&logoColor=white" height="18" style="vertical-align:middle"/> &nbsp;CS (AI/ML) · CGPA 8.0 · IDEATHON 2.0 Winner · AWS & GCP Certified
-- <img src="https://img.shields.io/badge/-5%2B%20Years-00FF41?style=flat-square&logo=leetcode&logoColor=black" height="18" style="vertical-align:middle"/> &nbsp;5+ years coding · 30+ projects · 15+ AI/ML models shipped to production
+- <img src="https://img.shields.io/badge/-B.Tech%20AI%2FML-4285F4?style=flat-square&logo=googlescholar&logoColor=white" height="18" style="vertical-align:middle"/> &nbsp;B.Tech CS (AI/ML) · Graduated May 2026 · GPA 8.0/10.0 · IDEATHON 2.0 Winner
 
 <br/>
 
@@ -151,10 +151,11 @@
 
 | Project | Description | Tech Stack | Status |
 |:---|:---|:---|:---:|
-| **[Sebastian](https://github.com/JeetInTech)** | **Autonomous AI Personal Assistant**<br/>59+ tools, OS & browser control, Gemini Live real-time voice, camera/screen vision, 3-tier safety gate (GREEN/YELLOW/RED), multi-layer memory with pgvector, Discord bridge, 110+ API integrations. | `Python` `FastAPI` `pgvector` `Gemini Live` `Playwright` `Edge TTS` | 🔒 Private |
-| **[Neurovia AI](https://github.com/JeetInTech)** | **Autonomous Social Media AI SaaS**<br/>4-tier LLM cascade (99.7% reliability), cross-platform scheduled posting, Razorpay billing, OAuth flows, 50+ DAU, 99.5% uptime. | `Next.js 14` `FastAPI` `PostgreSQL` `Supabase` `Gemini` `Docker` | 🟢 Production |
-| **[Multi-Agent Analytics Platform](https://github.com/JeetInTech/Ai-data-analyst)** | **Desktop AI Analytics Suite**<br/>6-agent LLM pipeline (Profiler → Cleaner → Feature Engineer → Model Selector → Visualizer → Orchestrator), 11 ML models, 20+ charts, offline LLM failover. | `PySide6` `Python` `Groq` `Gemini` `Ollama` `XGBoost` `LightGBM` | 🟡 GitHub |
-| **[Virtual Therapist](https://github.com/JeetInTech/Agentic-AI-for-personalized-mental-health-therapy-recommendations-via-multi-modal-sentiment-analysis)** | **Agentic Mental Health System**<br/>Stateful 3-agent LangGraph system with deterministic state transitions, speech-to-text, and adaptive emotional context. | `LangGraph` `LangChain` `Groq` `ChromaDB` `FastAPI` `PostgreSQL` | 🟡 GitHub |
+| **[Sebastian](https://github.com/JeetInTech)** | **Autonomous AI Operating System & Digital Butler**<br/>Full-duplex voice OS via Gemini Live (~400ms turnaround) with barge-in. 92 registered tools across Green/Yellow permission gates via npx child-process MCP servers (GitHub, Playwright, Filesystem). Sub-10ms semantic memory with pgvector & Knowledge Graph. | `Python` `Gemini Live` `pgvector` `Kokoro TTS` `MCP SDK` `FastAPI` | 🔒 Private |
+| **[Neurovia AI](https://neuroviai.dev)** | **Distributed Core Backend & Microservices**<br/>6 decoupled FastAPI microservices powering commercial SaaS at **neuroviai.dev** (1.2K+ monthly visitors). 4-tier circuit-breaking LLM gateway (Gemini Pro → Groq → HuggingFace → Ollama) with 99.7% uptime & Razorpay transactional billing. | `Next.js 14` `FastAPI` `PostgreSQL` `Supabase` `Celery` `Redis` `Docker` | 🟢 Production |
+| **[Genesis: Job Application Agent](https://github.com/JeetInTech)** | **Autonomous Multi-Board Job Application Agent**<br/>Recruitment agent executing end-to-end applications across 5 job portals via Playwright and CDP. Parses listings with Groq Llama-3, dynamically compiles tailored LaTeX resumes in 1.8s, and automates multi-step questionnaires with SQLite state tracking. | `Python` `Playwright` `Groq LLM` `SQLite` `BeautifulSoup4` `pdflatex` | 🔒 Private |
+| **[AI Data Analyst Engine](https://github.com/JeetInTech/Ai-data-analyst)** | **Automated Machine Learning & Analytics Engine**<br/>Out-of-core tabular AutoML ingesting datasets >5GB RAM via Dask & PyArrow. Bayesian hyperparameter tuning across 50+ trials with Optuna, MLflow tracking, and LIME explainability. | `Python` `Dask` `PyArrow` `Pandas` `Scikit-Learn` `Optuna` `MLflow` | 🟡 GitHub |
+| **[Virtual Therapist](https://github.com/JeetInTech/Agentic-AI-for-personalized-mental-health-therapy-recommendations-via-multi-modal-sentiment-analysis)** | **LangGraph Autonomous Multi-Modal Agent**<br/>Stateful LangGraph ReAct loop with 24 deterministic tools. Combines real-time facial micro-expression recognition (FER/OpenCV) and voice prosody analysis (Librosa) with <50ms crisis safety guardrails. | `LangGraph` `LangChain` `ChromaDB` `OpenCV` `Librosa` `Groq` `FastAPI` | 🟡 GitHub |
 
 </div>
 
@@ -168,9 +169,9 @@
 
 | Pipeline | Description | Tech Stack | Status |
 |:---|:---|:---|:---:|
-| **[YouTube Shorts Automation](https://github.com/JeetInTech/Youtube-shorts-Automation)** | **Autonomous Video Production & Upload**<br/>Trend scraping (Reddit, HN, Google Trends) → LLM script generation → voice synthesis → FFmpeg video assembly → automated YouTube upload with metadata. | `Python` `Ollama` `FFmpeg` `edge-tts` `Pexels API` `YouTube Data API v3` | 🟢 Open Source |
-| **[LinkedIn Automation](https://github.com/JeetInTech)** | **AI Outreach & Growth System**<br/>Local AI LinkedIn outreach: profile scraping, personalized connection requests, automated DM sequences, and lead tracking. | `Python` `Playwright` `Gemini API` `SQLite` `Cron` | 🔒 Private |
-| **[Daily Coding Streak Guardian](https://github.com/JeetInTech/Daily-coding-streak-tracker)** | **24/7 Cloud Contribution Protection**<br/>Autonomous GraphQL contribution monitor & telemetry checkpoint generator with auto-push, runs in cloud even when offline. | `Python` `GitHub Actions` `GraphQL API` `Git` | 🟢 24/7 Cloud |
+| **[Genesis: Video Pipeline](https://github.com/JeetInTech/Youtube-shorts-Automation)** | **Autonomous YouTube Shorts Pipeline**<br/>Autonomous agent operating continuously for 100+ days, publishing 138 Shorts via YouTube Data API v3 with automated script generation, Edge-TTS, and FFmpeg video assembly. | `Python` `Ollama` `Groq` `Edge-TTS` `FFmpeg` `YouTube API v3` | 🟢 Open Source |
+| **[Genesis: JobPulse](https://github.com/JeetInTech)** | **Recruitment Email Intelligence & Service**<br/>Asynchronous ingestion service connecting to Gmail API via OAuth 2.0, reconstructing email threads across RFC 822 Message-IDs with Groq classification for interview links and status. | `Python` `FastAPI` `Gmail API` `OAuth 2.0` `Groq LLM` `SQLite` | 🔒 Private |
+| **[Daily Coding Streak Guardian](https://github.com/JeetInTech/Daily-coding-streak-tracker)** | **24/7 Cloud Contribution Protection**<br/>Autonomous GraphQL contribution monitor & telemetry checkpoint generator with auto-push, runs 24/7 in cloud via GitHub Actions even when offline. | `Python` `GitHub Actions` `GraphQL API` `Git` | 🟢 24/7 Cloud |
 
 </div>
 
@@ -178,17 +179,18 @@
 
 ---
 
-<h2 align="left">🚀 &nbsp;Full-Stack AI Products</h2>
+<h2 align="left">🚀 &nbsp;Full-Stack & Desktop Products</h2>
 
 <div align="center">
 
 | Product | Description | Tech Stack | Status |
 |:---|:---|:---|:---:|
+| **[Mr. Memecredible](https://marketplace.visualstudio.com)** | **Published VS Code Extension — 900+ Active Installs**<br/>Developer productivity extension with 5-star rating on VS Code Marketplace. Subscribes to language server diagnostics with <16ms budget, rendering 9-stage uncanny meme meter via Webview IPC. | `TypeScript` `VS Code API` `Node.js` `Webview IPC` | 🟢 900+ Installs |
+| **[Local Cortex](https://github.com/JeetInTech/Local-Cortex-your-local-chatgpt-with-built-in-editor)** | **Native Desktop AI IDE & Workspace**<br/>Native Windows desktop code editor using Tauri v2 and Rust with native file traversal and local vector RAG indexing via Ollama. Autonomous multi-file codebase editing loop (`agent.rs`). | `Rust` `Tauri v2` `React` `TypeScript` `Monaco` `Ollama` | 🟢 GitHub |
+| **[Molars Nutrition](https://neuroviai.dev)** | **Brand Platform & Molecular Visualizer**<br/>Commercial brand platform built with React 19 and Next.js maintaining 95+ Lighthouse score. Interactive molecular canvas (`molecule.tsx`) with cursor repulsion and serverless Netlify Functions. | `React 19` `Next.js` `Tailwind` `Netlify Functions` | 🟢 Live |
+| **[Offline Image Workstation](https://github.com/JeetInTech/Offline-Image-Generation-v1.0)** | **Low-VRAM Diffusion Workstation**<br/>100% local generative image workstation with CPU/GPU offloading to generate high-resolution art on 4GB consumer GPUs using headless ComfyUI workflow queues. | `Python` `PySide6` `ComfyUI` `Stable Diffusion` `Torch` | 🟡 GitHub |
 | **[Neurovia Careers](https://neuroviacareer.netlify.app)** | **AI-Powered ATS Resume Builder**<br/>Weighted scoring engine, 90%+ ATS compatibility across 15+ job categories, 4 custom LaTeX export templates, Groq AI bullet & summary generation. | `React 18` `TypeScript` `FastAPI` `Supabase` `Groq` `Vite` | 🟢 Live |
 | **[Crafting Brain](https://craftingbrain.com)** | **Content-Tech NLP Platform**<br/>Production NLP pipelines for sentiment scoring, topic extraction & content optimization. AWS EC2/S3/Nginx infrastructure, GitHub Actions CI/CD. | `FastAPI` `Python` `AWS` `Docker` `Nginx` | 🟢 Live |
-| **[Ezz Notes](https://ezznotes.netlify.app)** | **Real-Time Offline-First PWA**<br/>PWA note-taking app with offline support, cloud sync, and active user base. | `React` `Firebase` `PWA` | 🟢 Live |
-| **[InnerWhispers Blog](https://github.com/JeetInTech)** | **Full-Stack Social Blogging Engine**<br/>Social platform with JWT auth, rich-text markdown editing, and real-time updates. | `FastAPI` `React` `Supabase` `JWT` | 🟡 GitHub |
-| **[Social Media RSS Feed](https://github.com/JeetInTech/Social-Media-RSS-Feeds---news-feed)** | **Aggregated AI News Reader**<br/>Multi-source RSS reader with AI summarization, category filtering, and social share integration. | `Python` `FastAPI` `RSS` `Gemini API` `React` | 🟡 GitHub |
 
 </div>
 
@@ -223,52 +225,56 @@
 
 ```yaml
 # ═══════════════════════════════════════════════════════════════
-#  SANGRAMJEET GHOSH  ·  AI Engineer & Full-Stack Developer
+#  SANGRAMJEET GHOSH  ·  AI & Distributed Systems Engineer
 # ═══════════════════════════════════════════════════════════════
 
 profile:
-  education:    "B.Tech CS (AI/ML) · Malla Reddy University · GPA 8.0/10"
-  thesis:       "Cost-Constrained AI Automation Systems (Neuroviai) — 15K Python + 12K TypeScript"
-  location:     "Hyderabad, India"
+  education:    "B.Tech CS (AI/ML) · Malla Reddy University · Graduated May 2026 · GPA 8.0/10.0"
+  location:     "Hyderabad, Telangana, India"
   languages:    ["English (Professional)", "Hindi (Native)", "Bengali (Native)"]
 
 experience:
-  - role:       "Freelance AI & Full-Stack Developer"
+  - role:       "Founding Engineer — Molars Nutrition"
+    period:     "Sep 2026 → Present"
+    highlights:
+      - "Built & shipped commercial brand platform (React 19, Next.js, Tailwind) with 95+ Lighthouse score"
+      - "Interactive molecular canvas (molecule.tsx) with physics-based cursor repulsion"
+      - "Serverless Netlify Functions with transactional email confirmation & accessible client forms"
+
+  - role:       "Freelance Software Engineer — Independent"
     period:     "Aug 2025 → Present"
     highlights:
-      - "Delivered end-to-end MVPs for 3+ startup founders"
-      - "SaaS products with Razorpay billing, JWT/OAuth, multi-platform API integrations"
-      - "Deployed across AWS · Render · Vercel · Netlify with custom domains & SSL"
-      - "LLM cost control: quota splitting, response caching, request batching"
+      - "Architected multimodal autonomous agents (LangGraph, Gemini Live, custom tool suites)"
+      - "Built Model Context Protocol (MCP) servers & sub-10ms persistent vector RAG pipelines"
+      - "Designed asynchronous microservices (FastAPI, PostgreSQL, Redis/Celery, idempotent webhooks)"
 
-  - role:       "Data Science Intern — Inikola Technologies (CraftingBrain.com)"
+  - role:       "Data Science & Backend Intern — Inikola Technologies (CraftingBrain.com)"
     period:     "Mar 2025 → Dec 2025"
     highlights:
-      - "Built NLP pipelines for sentiment scoring, topic extraction & content optimization"
-      - "Managed AWS EC2 · S3 · IAM · Nginx reverse-proxy in production"
-      - "Multi-stage Docker builds · GitHub Actions CI/CD zero-downtime deployments"
+      - "High-throughput FastAPI endpoints serving NLP scoring models under strict latency budgets"
+      - "Automated data ingestion/validation pipelines in Python with Pydantic v2 & PostgreSQL"
+      - "Managed AWS EC2, S3, IAM, Nginx reverse-proxies, and Docker CI/CD deployments"
 
 skills:
-  languages:    ["Python", "TypeScript", "JavaScript", "SQL", "HTML5/CSS3", "Bash"]
-  ai_ml:        ["LangChain", "LangGraph", "RAG Pipelines", "Multi-Agent Systems",
-                 "Gemini API", "OpenAI", "Groq", "pgvector", "Prompt Engineering",
-                 "XGBoost", "LightGBM", "Scikit-learn", "Pandas", "NumPy"]
-  backend:      ["FastAPI", "REST APIs", "WebSockets", "JWT/OAuth 2.0",
-                 "Microservices", "Async Python", "SQLAlchemy ORM"]
-  frontend:     ["React 18", "Next.js 14 App Router", "Tailwind CSS",
-                 "Zustand", "ShadCN/UI", "Vite", "TypeScript"]
-  databases:    ["PostgreSQL", "Supabase", "pgvector", "Redis", "MongoDB"]
-  devops_cloud: ["AWS (EC2·S3·IAM)", "Docker", "Docker Compose",
-                 "GitHub Actions CI/CD", "Nginx", "Render", "Vercel", "Netlify", "FFmpeg"]
-  tools:        ["Git", "Postman", "VS Code", "Playwright", "PyAutoGUI"]
+  languages:    ["Python (3.10–3.13)", "TypeScript", "JavaScript (Node.js)", "SQL", "Rust (basics)"]
+  agentic_ai:   ["LangGraph (StateGraph)", "LangChain", "Model Context Protocol (MCP SDK)", "ReAct Loops",
+                 "Gemini Live (Bidirectional Audio)", "Groq (Llama-3)", "Ollama (Local RAG)", "OpenAI API"]
+  backend_sys:  ["FastAPI", "AsyncIO", "Pydantic v2", "Celery", "Redis Queues", "Circuit Breaker",
+                 "PostgreSQL (pgvector Cosine)", "Supabase (RLS/Realtime)", "SQLite State Machines"]
+  frontend_ui:  ["React 18/19", "Next.js 14/16 (App Router)", "Tailwind CSS (v3/v4)", "Framer Motion",
+                 "Zustand", "VS Code Extensibility API", "Web Audio API", "HTML5 Canvas"]
+  devops_cloud: ["Docker", "Docker Compose", "AWS (EC2·S3·Lambda·DynamoDB)", "Nginx", "GitHub Actions CI/CD"]
 
-currently_building:
-  name:         "Sebastian — Fully Autonomous AI Personal Assistant"
-  tools:        "59+ tools · 110+ API integrations"
-  highlights:   ["OS & browser control", "Gemini Live real-time voice (bidirectional)",
-                 "Camera + screen vision", "3-tier permission gate (GREEN/YELLOW/RED)",
-                 "Discord voice bridge (48kHz→16kHz PCM resampling)",
-                 "Multi-layer memory: episodic + semantic + behavioral (pgvector)"]
+flagship_systems:
+  sebastian:
+    type:       "Autonomous AI Operating System & Private Digital Butler"
+    features:   "Full-duplex voice via Gemini Live (~400ms turnaround) · 92 MCP tools (Green/Yellow gates) · sub-10ms pgvector memory"
+  neuroviai:
+    type:       "Multi-Model LLM Routing Gateway & Commercial SaaS"
+    features:   "4-tier cascade (Gemini Pro → Groq → HuggingFace → Ollama) · 99.7% uptime · 1.2K+ monthly visitors"
+  mr_memecredible:
+    type:       "Published VS Code Extension"
+    features:   "900+ active installs · 5-star rating · <16ms diagnostic watcher"
 ```
 
 ###
@@ -317,7 +323,7 @@ currently_building:
   <a href="https://sangramjeet.me" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Portfolio&logo=google-chrome&label=&color=FF5722&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio" />
   </a>
-  <a href="https://neuroviai.com" target="_blank">
+  <a href="https://neuroviai.dev" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Neurovia+AI&logo=react&label=&color=00D9FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="neurovia" />
   </a>
   <a href="https://www.amazon.com/dp/B0FBLC1RLT" target="_blank">
