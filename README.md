@@ -6,13 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2800&pause=2000&color=00FF41&center=true&vCenter=true&width=700&lines=Building+Production+AI+Systems+%F0%9F%A4%96;Autonomous+Agents+%26+Multi-Agent+Pipelines;Full-Stack+SaaS+from+0+to+Launch+%F0%9F%9A%80;Founder+of+Neuroviai+%F0%9F%8C%90;Open+Source+Contributor+%F0%9F%93%A6" alt="Typing SVG" />
 </div>
 
-###
 
-<div align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExajBjNjNjcnhsZGRtYmN4dHBrd2d5YnpoaHJrOGZ3bGI4eTg3c3o3NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="300"/>
-</div>
-
-###
 
 <h2 align="left"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="28" style="vertical-align:middle"/> &nbsp;About Me</h2>
 
