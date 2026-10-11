@@ -145,6 +145,84 @@
 
 ---
 
+<h2 align="left"><img src="https://img.shields.io/badge/GENESIS-Central%20Brain-00FF41?style=flat-square&logo=cpu&logoColor=black&labelColor=0d1117" height="26"/> &nbsp;🧠 Genesis — Autonomous Central Brain & Multi-Agent Operations Hub</h2>
+
+<div align="left">
+
+![Architecture](https://img.shields.io/badge/Architecture-Non--Intrusive%20Probes%20%7C%20Zero--SDK-00FF41?style=flat-square&labelColor=0d1117)
+![GUI](https://img.shields.io/badge/GUI-Python%203%20%7C%20PySide6%20%7C%20Qt%206%20QML-00D9FF?style=flat-square&labelColor=0d1117)
+![Fleet Scale](https://img.shields.io/badge/Autonomous%20Fleet-10%20Production%20Agents-FF6B35?style=flat-square&labelColor=0d1117)
+![Topology](https://img.shields.io/badge/Topology-Evidence--Based%20Dynamic%20Graph-3ECF8E?style=flat-square&labelColor=0d1117)
+![Tracing](https://img.shields.io/badge/Distributed%20Tracing-Multi--Store%20Entity%20Correlation-6C63FF?style=flat-square&labelColor=0d1117)
+
+</div>
+
+<br/>
+
+**GENESIS** is a full-screen desktop operations cockpit and autonomous central brain monitoring, correlating, and supervising the multi-agent fleet on my workstation. Built with **Python 3 + PySide6 (Qt 6 / QML)**, it tracks **10 autonomous desktop and cloud agents** with **zero code intrusion** or SDK overhead.
+
+Genesis operates as an out-of-band supervisor by listening directly to OS-level and disk artifacts:
+- ⏱️ **Incremental Log Tails (1.5s clock)**: Regex parsing with severity decay across four log formats.
+- 🗄️ **Read-Only SQLite Aggregations (15s clock)**: Zero-lock metric queries and actionable alert extractors.
+- ⚡ **Kernel Process Telemetry (6s clock)**: Non-blocking `psutil` process tree scanning and CPU% load derivation.
+- 🌐 **Evidence-Based Dynamic Topology**: Connections between agents are never hand-drawn guesses—edges are earned only when the **same normalized entity** appears across disparate SQLite databases and APIs (e.g. `Job App` ➔ `JobPulse` via shared company records).
+
+<br/>
+
+<div align="center">
+
+### 🖥️ Genesis Mission Control & Visual Pipeline UI
+
+| 🌌 Operations Hub & Live Fleet | 🕸️ ComfyUI-Style Visual Workflow DAG |
+|:---:|:---:|
+| [![Operations Hub](assets/genesis/hub.png)](assets/genesis/hub.png)<br/><sub>**Central Operations Hub:** Real-time fleet health %, attention alerts, load meters, and live event feed.</sub> | [![Workflow Nodes](assets/genesis/workflow-nodes.png)](assets/genesis/workflow-nodes.png)<br/><sub>**Visual Flow DAG:** Interactive node pipeline with scrapers, LLM cascades, and actuators.</sub> |
+| **🔗 Dynamic Directed Topology** | **⏱️ Distributed Entity Tracing** |
+| [![Topology](assets/genesis/topology.png)](assets/genesis/topology.png)<br/><sub>**Dynamic Topology:** Observed edges computed from multi-agent data handoffs & latency.</sub> | [![Trace Mode](assets/genesis/trace.png)](assets/genesis/trace.png)<br/><sub>**Entity Tracing:** End-to-end audit trail (Applied → Acknowledged → Assessment → Interview).</sub> |
+| **🎛️ Agent Execution Cockpit** | **🎙️ Conversational Avatar (Face Mode)** |
+| [![Cockpit](assets/genesis/cockpit.png)](assets/genesis/cockpit.png)<br/><sub>**Agent Cockpit:** Execution drawer with milestone stage tracker & single-click LLM incident fixes.</sub> | [![Face Mode](assets/genesis/face.png)](assets/genesis/face.png)<br/><sub>**Voice Avatar:** Real-time voice interaction with Kokoro audio envelope driven lip-sync.</sub> |
+
+</div>
+
+<br/>
+
+### 🔄 4 Unified Multi-Agent Workflows
+
+<div align="center">
+
+| Workflow Pipeline | Orchestrated Agents | Operational Flow & Real-World Execution |
+|:---|:---|:---|
+| **🎯 Job Discovery & Application Pipeline** | <img src="assets/badges/genesis-jobapp.svg" height="20"/><br/><img src="assets/badges/genesis-jobpulse.svg" height="20"/> | **Autonomous multi-portal discovery to interview tracking.** Scrapes 5 platforms (LinkedIn, Wellfound, Indeed, Internshala, Naukri) via Playwright CDP, parses listings with Groq Llama-3, dynamically compiles custom LaTeX resumes in 1.8s, submits multi-step applications, and hands off to JobPulse for Gmail thread monitoring and interview extraction. |
+| **🤝 Stealth Outreach & Networking Pipeline** | <img src="assets/badges/cold-mails.svg" height="20"/><br/><img src="assets/badges/linkedin-outreach.svg" height="20"/><br/><img src="assets/badges/whatsapp-agent.svg" height="20"/><br/><img src="assets/badges/genesis-jobpulse.svg" height="20"/> | **High-intent multi-channel outreach engine.** Scrapes hiring leads from Hacker News & tech communities, identifies decision-makers via LinkedIn CDP, drafts hyper-personalized pitches using Groq / gpt-oss-120b, respects humanized rate pacing, and engages in style-matched WhatsApp responses with local Ollama Llama-3.1. |
+| **🎬 Autonomous Content Creation & Publishing** | <img src="assets/badges/offline-image-gen.svg" height="20"/><br/><img src="assets/badges/linkedin-publisher.svg" height="20"/><br/><img src="assets/badges/genesis-video.svg" height="20"/> | **Zero-touch media generation and publishing swarm.** Identifies viral tech trends, generates script hooks via Ollama, renders multi-track voice with Edge-TTS, composites video via FFmpeg, and uploads to YouTube Data API v3 (138+ live Shorts). Concurrently generates Gemini 2.5 Flash technical posts with ComfyUI visual banners. |
+| **🛡️ Workstation Supervision & Cloud Protection** | <img src="assets/badges/sebastian.svg" height="20"/><br/><img src="assets/badges/streak-guardian.svg" height="20"/> | **Fleet health monitoring and 24/7 cloud keepalive.** Sebastian provides full-duplex voice control and executes 92 MCP tools for system repair. Daily Coding Streak Guardian runs 24/7 in cloud via GitHub Actions to maintain telemetry checkpoints and protect contribution graphs. |
+
+</div>
+
+<br/>
+
+### 🤖 Complete Fleet Directory — The 10 Autonomous Agents
+
+<div align="center">
+
+| Agent Code | Agent & Engine | Tools & Capabilities | Data Traces & Evidence | Role & Status |
+|:---:|:---|:---|:---|:---:|
+| `JOB` | <img src="assets/badges/genesis-jobapp.svg" height="22"/><br/>`Groq Llama-3` `Playwright CDP` | `job_discoverer` `web_discoverer` `form_filler` `resume_tailor` `gmail_client` | `logs/*.log`<br/>`applications.db` | 🔒 Private<br/>**Application Swarm** |
+| `PLS` | <img src="assets/badges/genesis-jobpulse.svg" height="22"/><br/>`FastAPI` `Groq LLM` `OAuth 2.0` | `MultiAccountIMAP` `MIMEParser` `ThreadLinker` `RegexEngine` `LLMClassifier` | `job_tracker.db`<br/>RFC 822 Threads | 🔒 Private<br/>**Email Intelligence** |
+| `CLD` | <img src="assets/badges/cold-mails.svg" height="22"/><br/>`Groq` `gpt-oss-120b` | `HNScraper` `ResumeReader` `LLMComposer` `DraftValidator` `GmailDrafts` | `coldmail.log`<br/>`sent.json` | 🔒 Private<br/>**Cold Pitch Drafter** |
+| `DMS` | <img src="assets/badges/linkedin-outreach.svg" height="22"/><br/>`Playwright` `Chrome CDP (9223)` | `ProspectSearch` `ProfileDeepScrape` `PathDetection` `HumanizerPacer` | `run.log`<br/>`outreach.db` | 🔒 Private<br/>**Targeted Networking** |
+| `LNK` | <img src="assets/badges/linkedin-publisher.svg" height="22"/><br/>`Gemini 2.5 Flash` `ComfyUI` | `TopicPromptInput` `ScheduleGuard` `LLMComposer` `ComfyUIBanner` | `automation.log`<br/>`linkedin.db` | 🟢 Production<br/>**Post Automation** |
+| `IMG` | <a href="https://github.com/JeetInTech/Offline-Image-Generation-v1.0" target="_blank"><img src="assets/badges/offline-image-gen.svg" height="22"/></a><br/>`Stable Diffusion` `PySide6` | `KSampler` `VAEDecodeTiled` `CLIPTextEncode` `LowVRAMOffload` | `output/*.png`<br/>ComfyUI Queues | 🟡 GitHub<br/>**Visual Diffusion** |
+| `YTA` | <a href="https://github.com/JeetInTech/Youtube-shorts-Automation" target="_blank"><img src="assets/badges/genesis-video.svg" height="22"/></a><br/>`Ollama` `Edge-TTS` `FFmpeg` | `TrendsScraper` `VoiceSynthesizer` `VideoAssembly` `YouTubeAPIv3` | `automation.log`<br/>138+ Live Shorts | 🟢 Open Source<br/>**Video Factory** |
+| `STK` | <a href="https://github.com/JeetInTech/Daily-coding-streak-tracker" target="_blank"><img src="assets/badges/streak-guardian.svg" height="22"/></a><br/>`GitHub Actions` `GraphQL` | `GraphQLClient` `GitAutomator` `TelemetryGenerator` `AutoCommit` | `guardian.log`<br/>`state.json` | 🟢 24/7 Cloud<br/>**Streak Protection** |
+| `SEB` | <img src="assets/badges/sebastian.svg" height="22"/><br/>`Gemini Live` `92 MCP Tools` | `BidirectionalAudio` `pgvector` `KnowledgeGraph` `ChildProcessMCP` | `sebastian.log`<br/>sub-10ms memory | 🔒 Private<br/>**Digital Butler** |
+| `WHA` | <img src="assets/badges/whatsapp-agent.svg" height="22"/><br/>`Selenium` `Ollama Llama-3.1:8b` | `read_history` `profile_style` `compose_reply` `rate_pacer` | `whatsapp_outreach.log`<br/>Browser Session | 🔒 Private<br/>**Chatbot Assistant** |
+
+</div>
+
+<br/>
+
+---
+
 <h2 align="left">🤖 &nbsp;AI & Agentic Systems</h2>
 
 <div align="center">
