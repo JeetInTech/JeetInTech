@@ -1,0 +1,108 @@
+name: Cache profile cards
+
+# The public card services (github-readme-stats.vercel.app and friends) are
+# chronically rate-limited and regularly return 503/500, which blanks every
+# card on the profile at once. This workflow snapshots each card into the repo
+# so the README renders from committed files instead of a live third-party
+# request. A failed fetch keeps the previous good copy rather than wiping it.
+
+on:
+  schedule:
+    - cron: "17 */6 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - .github/workflows/cache-cards.yml
+
+permissions:
+  contents: write
+
+jobs:
+  cache:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    env:
+      # Point these at your own Vercel deployments to escape the public
+      # instances entirely. Set repository variables STATS_BASE / SUMMARY_BASE
+      # (Settings -> Secrets and variables -> Actions -> Variables).
+      STATS_BASE: ${{ vars.STATS_BASE || 'https://github-readme-stats.vercel.app' }}
+      SUMMARY_BASE: ${{ vars.SUMMARY_BASE || 'https://github-profile-summary-cards.vercel.app' }}
+      USER: JeetInTech
+      THEME: "theme=chartreuse-dark&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=00ff41"
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch cards
+        run: |
+          set -uo pipefail
+          mkdir -p assets
+
+          fetch() {
+            name="$1"
+            url="$2"
+            tmp="$(mktemp)"
+
+            # Retry a few times: these services fail intermittently.
+            for attempt in 1 2 3 4 5; do
+              code="$(curl -sS -L --max-time 45 -w '%{http_code}' -o "$tmp" "$url" || echo 000)"
+              if [ "$code" = "200" ]; then
+                break
+              fi
+              echo "  attempt $attempt for $name -> HTTP $code"
+              sleep $((attempt * 5))
+            done
+
+            if [ "$code" != "200" ]; then
+              echo "SKIP $name (HTTP $code) - keeping existing copy"
+              rm -f "$tmp"
+              return 0
+            fi
+
+            # Guard against the services returning an SVG that just says "error".
+            if ! grep -qi '<svg' "$tmp"; then
+              echo "SKIP $name (not an SVG) - keeping existing copy"
+              rm -f "$tmp"; return 0
+            fi
+            if grep -qiE 'Something went wrong|Maximum retries exceeded|couldn.t fetch' "$tmp"; then
+              echo "SKIP $name (error card) - keeping existing copy"
+              rm -f "$tmp"; return 0
+            fi
+            if [ "$(wc -c < "$tmp")" -lt 500 ]; then
+              echo "SKIP $name (suspiciously small) - keeping existing copy"
+              rm -f "$tmp"; return 0
+            fi
+
+            mv "$tmp" "assets/$name"
+            echo "OK   $name ($(wc -c < "assets/$name") bytes)"
+          }
+
+          pin() { fetch "pin-$1.svg" "$STATS_BASE/api/pin/?username=$USER&repo=$2&$THEME"; }
+
+          fetch "stats.svg"      "$STATS_BASE/api?username=$USER&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&$THEME"
+          fetch "top-langs.svg"  "$STATS_BASE/api/top-langs?username=$USER&layout=compact&card_width=320&langs_count=8&hide_border=false&$THEME"
+          fetch "summary.svg"    "$SUMMARY_BASE/api/cards/stats?username=$USER&theme=github_dark"
+          fetch "streak.svg"     "https://streak-stats.demolab.com/?user=$USER&theme=chartreuse-dark&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&border=00ff41"
+          fetch "activity.svg"   "https://github-readme-activity-graph.vercel.app/graph?username=$USER&theme=react-dark&bg_color=0d1117&color=00ff41&line=00ff41&point=00ff41&area=true&hide_border=false"
+
+          pin "offline-image-generation" "Offline-Image-Generation-v1.0"
+          pin "local-cortex"             "Local-Cortex-your-local-chatgpt-with-built-in-editor"
+          pin "ai-data-analyst"          "Ai-data-analyst"
+          pin "social-rss"               "Social-Media-RSS-Feeds---news-feed"
+
+          echo "--- cached ---"
+          ls -la assets/ || true
+
+      - name: Commit refreshed cards
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/
+          if git diff --staged --quiet; then
+            echo "No card changed."
+          else
+            git commit -m "chore: refresh cached profile cards"
+            git push
+          fi

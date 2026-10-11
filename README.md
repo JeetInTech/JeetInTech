@@ -40,16 +40,12 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JeetInTech&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=chartreuse-dark&locale=en&hide_border=false&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=00ff41" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JeetInTech&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=chartreuse-dark&hide_border=false&bg_color=0d1117&title_color=00ff41&text_color=00ff41" height="180" alt="languages graph" />
+  <img src="assets/stats.svg" height="175" alt="stats graph" />
+  <img src="assets/top-langs.svg" height="175" alt="languages graph" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=JeetInTech&theme=chartreuse-dark&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&border=00ff41" alt="GitHub Daily Streak" height="180" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JeetInTech&theme=github_dark" alt="Total Commits Till Date" />
+  <img src="assets/streak.svg" alt="GitHub Daily Streak" height="175" />
 </div>
 
 ###
@@ -142,39 +138,23 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JeetInTech&theme=react-dark&bg_color=0d1117&color=00ff41&line=00ff41&point=00ff41&area=true&hide_border=false" alt="Activity Graph" />
+  <img src="assets/activity.svg" alt="Activity Graph" />
 </div>
 
 ###
 
 ---
 
-<h2 align="left"><img src="https://img.shields.io/badge/AI-Software%20Systems-00FF41?style=flat-square&logo=openai&logoColor=white&labelColor=0d1117" height="26"/> &nbsp;AI Software Systems</h2>
+<h2 align="left">🤖 &nbsp;AI & Agentic Systems</h2>
 
 <div align="center">
 
-| Project | Description | Stack | Status |
-|:--------|:------------|:-------|:------:|
-| <img src="https://img.shields.io/badge/🤖_Private-Sebastian-FF6B35?style=flat-square&logoColor=white" height="18"/> &nbsp;**[Sebastian](https://github.com/JeetInTech)** | Fully autonomous personal assistant — 59+ tools, OS & browser control, Gemini Live real-time voice, camera/screen vision, 3-tier safety gate (GREEN/YELLOW/RED), multi-layer memory with pgvector, Discord voice bridge, 110+ API integrations | `Python` `FastAPI` `pgvector` `Gemini Live` `Playwright` `Edge TTS` | 🔒 Private |
-| <img src="https://neuroviai.com/assets/logo.png" height="18" style="border-radius:4px"/> &nbsp;**[Neurovia AI](https://neuroviai.com)** | AI Social Media Automation SaaS — 4-tier LLM cascade (99.7% reliability), autonomous cross-platform posting, Razorpay billing, OAuth flows, 50+ DAU, 99.5% uptime | `Next.js 14` `FastAPI` `PostgreSQL` `Supabase` `Gemini` `OpenAI` `Docker` | 🟢 Live |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="18"/> &nbsp;**[Multi-Agent Data Analytics Platform](https://github.com/JeetInTech/Ai-data-analyst)** | Desktop AI analytics suite — 6-agent LLM pipeline (Profiler→Cleaner→Feature Engineer→Model Selector→Visualizer→Orchestrator), 11 ML models benchmarked, 20+ chart types, offline LLM failover (Groq→Gemini→Ollama) | `PySide6` `Python` `Groq` `Gemini` `Ollama` `XGBoost` `LightGBM` | 🟡 GitHub |
-| <img src="https://img.shields.io/badge/LangGraph-Virtual%20Therapist-8B5CF6?style=flat-square&logo=langchain&logoColor=white" height="18"/> &nbsp;**[Virtual Therapist](https://github.com/JeetInTech/Agentic-AI-for-personalized-mental-health-therapy-recommendations-via-multi-modal-sentiment-analysis)** | Stateful 3-agent LangGraph system (intake → emotion-detection → therapeutic-response) with deterministic state transitions, speech-to-text, and adaptive emotional context | `LangGraph` `LangChain` `Groq` `ChromaDB` `FastAPI` `PostgreSQL` | 🟡 GitHub |
-
-</div>
-
-###
-
----
-
-<h2 align="left"><img src="https://img.shields.io/badge/Intelligent-Automation%20Pipelines-FF9900?style=flat-square&logo=amazonaws&logoColor=white&labelColor=0d1117" height="26"/> &nbsp;Intelligent Automation Pipelines</h2>
-
-<div align="center">
-
-| Project | Description | Stack | Status |
-|:--------|:------------|:-------|:------:|
-| <img src="https://img.shields.io/badge/Open%20Source-YouTube%20Shorts-FF0000?style=flat-square&logo=youtube&logoColor=white" height="18"/> &nbsp;**[YouTube Shorts Automation](https://github.com/JeetInTech/Youtube-shorts-Automation)** | End-to-end automated short-form video pipeline: trend scraping (Reddit, HN, Google Trends) → LLM script generation with quality scoring → voice synthesis → FFmpeg video assembly → YouTube upload with metadata. Multi-channel, 4+ videos/run, Windows Task Scheduler for unattended daily posting | `Python` `Ollama` `FFmpeg` `edge-tts` `Pexels API` `YouTube Data API v3` | 🟢 Open Source |
-| <img src="https://img.shields.io/badge/🔗_Private-LinkedIn%20Automation-0077B5?style=flat-square&logoColor=white" height="18"/> &nbsp;**Local LinkedIn Automation** | AI-driven LinkedIn outreach automation — profile scraping, personalized connection message generation, automated DM sequences, engagement tracking, and lead pipeline management running fully locally | `Python` `Playwright` `Gemini API` `SQLite` `Scheduler` | 🔒 Private |
-| <img src="https://img.shields.io/badge/🔥_Private-Daily%20Coding%20Streak%20Tracker-00FF41?style=flat-square&logoColor=white" height="18"/> &nbsp;**Daily Coding Streak Tracker** | Automated daily coding challenge fetcher and submission tracker — pulls problems from LeetCode/HackerRank, logs solutions, and maintains streak stats with GitHub push integration | `Python` `GitHub API` `Selenium` `Cron` | 🔒 Private |
+| Project | Description | Tech Stack | Status |
+|:---|:---|:---|:---:|
+| **[Sebastian](https://github.com/JeetInTech)** | **Autonomous AI Personal Assistant**<br/>59+ tools, OS & browser control, Gemini Live real-time voice, camera/screen vision, 3-tier safety gate (GREEN/YELLOW/RED), multi-layer memory with pgvector, Discord bridge, 110+ API integrations. | `Python` `FastAPI` `pgvector` `Gemini Live` `Playwright` `Edge TTS` | 🔒 Private |
+| **[Neurovia AI](https://github.com/JeetInTech)** | **Autonomous Social Media AI SaaS**<br/>4-tier LLM cascade (99.7% reliability), cross-platform scheduled posting, Razorpay billing, OAuth flows, 50+ DAU, 99.5% uptime. | `Next.js 14` `FastAPI` `PostgreSQL` `Supabase` `Gemini` `Docker` | 🟢 Production |
+| **[Multi-Agent Analytics Platform](https://github.com/JeetInTech/Ai-data-analyst)** | **Desktop AI Analytics Suite**<br/>6-agent LLM pipeline (Profiler → Cleaner → Feature Engineer → Model Selector → Visualizer → Orchestrator), 11 ML models, 20+ charts, offline LLM failover. | `PySide6` `Python` `Groq` `Gemini` `Ollama` `XGBoost` `LightGBM` | 🟡 GitHub |
+| **[Virtual Therapist](https://github.com/JeetInTech/Agentic-AI-for-personalized-mental-health-therapy-recommendations-via-multi-modal-sentiment-analysis)** | **Agentic Mental Health System**<br/>Stateful 3-agent LangGraph system with deterministic state transitions, speech-to-text, and adaptive emotional context. | `LangGraph` `LangChain` `Groq` `ChromaDB` `FastAPI` `PostgreSQL` | 🟡 GitHub |
 
 </div>
 
@@ -182,18 +162,33 @@
 
 ---
 
-<h2 align="left"><img src="https://img.shields.io/badge/Full--Stack-AI%20Products-6C63FF?style=flat-square&logo=react&logoColor=white&labelColor=0d1117" height="26"/> &nbsp;Full-Stack AI Products</h2>
+<h2 align="left">⚡ &nbsp;Intelligent Automation Pipelines</h2>
 
 <div align="center">
 
-| Project | Description | Stack | Status |
-|:--------|:------------|:-------|:------:|
-| <img src="https://neuroviai.com/assets/logo.png" height="18" style="border-radius:4px"/> &nbsp;**[Neurovia AI](https://neuroviai.com)** | AI Social Media Automation SaaS — LinkedIn & Twitter AI content generation, scheduled posting, 5,000+ users, 99.5% uptime with 4-tier LLM cascade and Razorpay billing | `Next.js 14` `FastAPI` `PostgreSQL` `Supabase` `Gemini` `Docker` | 🟢 Live |
-| <img src="https://img.shields.io/badge/🧑‍💼_Live-Crafting%20Brain-3ECF8E?style=flat-square&logoColor=white" height="18"/> &nbsp;**[Crafting Brain](https://craftingbrain.com)** | Live content-tech platform — NLP pipelines for sentiment scoring, topic extraction & content optimization in production. AWS EC2/S3/Nginx managed infrastructure, GitHub Actions CI/CD | `FastAPI` `Python` `AWS` `Docker` `Nginx` | 🟢 Live |
-| <img src="https://img.shields.io/badge/📝_Live-Ezz%20Notes-4FC3F7?style=flat-square&logoColor=white" height="18"/> &nbsp;**[Ezz Notes](https://ezznotes.netlify.app)** | Real-time PWA note-taking app with offline support, sync, and active user base | `React` `Firebase` `PWA` | 🟢 Live |
-| <img src="https://img.shields.io/badge/✍️_GitHub-InnerWhispers%20Blog-FF6B6B?style=flat-square&logoColor=white" height="18"/> &nbsp;**InnerWhispers Blog** | Full-stack blogging platform with social features, JWT auth, rich-text editing, and real-time updates | `FastAPI` `React` `Supabase` `JWT` | 🟡 GitHub |
-| <img src="https://neuroviacareer.netlify.app/favicon.ico" height="18" onerror="this.style.display='none'"/> <img src="https://img.shields.io/badge/💼_Live-Neurovia%20Careers-00D9FF?style=flat-square&logoColor=white" height="18"/> &nbsp;**[Neurovia Careers](https://neuroviacareer.netlify.app)** | AI-powered ATS resume builder — weighted scoring engine, 90%+ ATS compatibility across 15+ job categories, 4 custom LaTeX export templates, Groq AI bullet & summary generation | `React 18` `TypeScript` `FastAPI` `Supabase` `Groq` `Vite` | 🟢 Live |
-| <img src="https://img.shields.io/badge/📰_GitHub-Social%20Media%20RSS%20News%20Feed-FF9900?style=flat-square&logoColor=white" height="18"/> &nbsp;**[Social Media RSS News Feed](https://github.com/JeetInTech/Social-Media-RSS-Feeds---news-feed)** | Aggregated multi-source RSS news feed reader with AI summarization, category filtering, and social share integration | `Python` `FastAPI` `RSS` `Gemini API` `React` | 🟡 GitHub |
+| Pipeline | Description | Tech Stack | Status |
+|:---|:---|:---|:---:|
+| **[YouTube Shorts Automation](https://github.com/JeetInTech/Youtube-shorts-Automation)** | **Autonomous Video Production & Upload**<br/>Trend scraping (Reddit, HN, Google Trends) → LLM script generation → voice synthesis → FFmpeg video assembly → automated YouTube upload with metadata. | `Python` `Ollama` `FFmpeg` `edge-tts` `Pexels API` `YouTube Data API v3` | 🟢 Open Source |
+| **[LinkedIn Automation](https://github.com/JeetInTech)** | **AI Outreach & Growth System**<br/>Local AI LinkedIn outreach: profile scraping, personalized connection requests, automated DM sequences, and lead tracking. | `Python` `Playwright` `Gemini API` `SQLite` `Cron` | 🔒 Private |
+| **[Daily Coding Streak Guardian](https://github.com/JeetInTech/Daily-coding-streak-tracker)** | **24/7 Cloud Contribution Protection**<br/>Autonomous GraphQL contribution monitor & telemetry checkpoint generator with auto-push, runs in cloud even when offline. | `Python` `GitHub Actions` `GraphQL API` `Git` | 🟢 24/7 Cloud |
+
+</div>
+
+###
+
+---
+
+<h2 align="left">🚀 &nbsp;Full-Stack AI Products</h2>
+
+<div align="center">
+
+| Product | Description | Tech Stack | Status |
+|:---|:---|:---|:---:|
+| **[Neurovia Careers](https://neuroviacareer.netlify.app)** | **AI-Powered ATS Resume Builder**<br/>Weighted scoring engine, 90%+ ATS compatibility across 15+ job categories, 4 custom LaTeX export templates, Groq AI bullet & summary generation. | `React 18` `TypeScript` `FastAPI` `Supabase` `Groq` `Vite` | 🟢 Live |
+| **[Crafting Brain](https://craftingbrain.com)** | **Content-Tech NLP Platform**<br/>Production NLP pipelines for sentiment scoring, topic extraction & content optimization. AWS EC2/S3/Nginx infrastructure, GitHub Actions CI/CD. | `FastAPI` `Python` `AWS` `Docker` `Nginx` | 🟢 Live |
+| **[Ezz Notes](https://ezznotes.netlify.app)** | **Real-Time Offline-First PWA**<br/>PWA note-taking app with offline support, cloud sync, and active user base. | `React` `Firebase` `PWA` | 🟢 Live |
+| **[InnerWhispers Blog](https://github.com/JeetInTech)** | **Full-Stack Social Blogging Engine**<br/>Social platform with JWT auth, rich-text markdown editing, and real-time updates. | `FastAPI` `React` `Supabase` `JWT` | 🟡 GitHub |
+| **[Social Media RSS Feed](https://github.com/JeetInTech/Social-Media-RSS-Feeds---news-feed)** | **Aggregated AI News Reader**<br/>Multi-source RSS reader with AI summarization, category filtering, and social share integration. | `Python` `FastAPI` `RSS` `Gemini API` `React` | 🟡 GitHub |
 
 </div>
 
