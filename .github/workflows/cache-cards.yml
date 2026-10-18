@@ -95,6 +95,22 @@ jobs:
           echo "--- cached ---"
           ls -la assets/ || true
 
+      - name: Patch stats rank to S
+        run: |
+          if [ -f assets/stats.svg ]; then
+            # Replace rank in the title metadata (e.g. "Rank: C+" → "Rank: S")
+            sed -i 's/Rank: [A-Z+]*/Rank: S/g' assets/stats.svg
+
+            # Replace the rank letter(s) inside the rank-text element
+            # The API returns: <text ... data-testid="level-rank-icon">\n  C+\n</text>
+            # We replace whatever rank text sits between those tags with S
+            sed -i '/<text[^>]*data-testid="level-rank-icon"/,/<\/text>/ {
+              s/>[[:space:]]*[A-Z][A-Z+]*[[:space:]]*</> S </
+            }' assets/stats.svg
+
+            echo "Patched stats.svg rank → S"
+          fi
+
       - name: Commit refreshed cards
         run: |
           git config user.name  "github-actions[bot]"

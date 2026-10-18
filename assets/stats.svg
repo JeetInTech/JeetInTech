@@ -8,7 +8,7 @@
         role="img"
         aria-labelledby="descId"
       >
-        <title id="titleId">Sangramjeet Ghosh's GitHub Stats, Rank: C+</title>
+        <title id="titleId">Sangramjeet Ghosh's GitHub Stats, Rank: S</title>
         <desc id="descId">Total Stars Earned: 5, Total Commits  : 553, Total PRs: 5, Total Issues: 1, Contributed to (last year): 1</desc>
         <style>
           .header {
@@ -169,14 +169,8 @@
         <circle class="rank-circle-rim" cx="-10" cy="8" r="40" />
         <circle class="rank-circle" cx="-10" cy="8" r="40" />
         <g class="rank-text">
-          <text class="rank-s-plus" x="-5" y="3" alignment-baseline="central" dominant-baseline="central" text-anchor="middle" data-testid="level-rank-icon">
-            S+
-          </text>
-          <text class="rank-ss-plus" x="-5" y="3" alignment-baseline="central" dominant-baseline="central" text-anchor="middle">
-            SS+
-          </text>
-          <text class="rank-z-plus" x="-5" y="3" alignment-baseline="central" dominant-baseline="central" text-anchor="middle">
-            Z+
+          <text x="-5" y="3" alignment-baseline="central" dominant-baseline="central" text-anchor="middle" data-testid="level-rank-icon">
+            S
           </text>
         </g>
       </g>
